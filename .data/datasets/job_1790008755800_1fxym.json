@@ -1,0 +1,2902 @@
+{
+  "id": "job_1790008755800_1fxym",
+  "title": "Logo design Scrape",
+  "query": "logo design",
+  "scrapeMode": "search_details",
+  "createdAt": "2026-09-21T16:39:26.512Z",
+  "itemCount": 4,
+  "stats": {
+    "totalGigs": 4,
+    "avgPrice": 50,
+    "medianPrice": 35,
+    "minPrice": 20,
+    "maxPrice": 110,
+    "promotedCount": 0,
+    "organicCount": 4,
+    "promotedPercent": 0,
+    "fiverrChoiceCount": 1,
+    "avgDeliveryDays": 2.5,
+    "avgRating": 4.86,
+    "totalReviews": 28241,
+    "priceDistribution": [
+      {
+        "range": "Under $25",
+        "count": 1
+      },
+      {
+        "range": "$25 - $50",
+        "count": 2
+      },
+      {
+        "range": "$51 - $100",
+        "count": 0
+      },
+      {
+        "range": "$101 - $250",
+        "count": 1
+      },
+      {
+        "range": "$250+",
+        "count": 0
+      }
+    ],
+    "sellerLevels": [
+      {
+        "label": "Top Rated",
+        "count": 2
+      },
+      {
+        "label": "Level 2",
+        "count": 2
+      }
+    ],
+    "countries": [
+      {
+        "code": "PK",
+        "count": 2
+      },
+      {
+        "code": "IN",
+        "count": 2
+      }
+    ],
+    "topTags": [
+      {
+        "name": "logo design",
+        "count": 3
+      },
+      {
+        "name": "business logo",
+        "count": 3
+      },
+      {
+        "name": "modern logo",
+        "count": 2
+      },
+      {
+        "name": "professional logo",
+        "count": 2
+      },
+      {
+        "name": "logo creation",
+        "count": 1
+      },
+      {
+        "name": "minimalist logo",
+        "count": 1
+      },
+      {
+        "name": "creative logo design",
+        "count": 1
+      },
+      {
+        "name": "modern",
+        "count": 1
+      },
+      {
+        "name": "minimal logo",
+        "count": 1
+      },
+      {
+        "name": "flat logo",
+        "count": 1
+      },
+      {
+        "name": "logo",
+        "count": 1
+      },
+      {
+        "name": "custom logo",
+        "count": 1
+      },
+      {
+        "name": "modern logo design",
+        "count": 1
+      },
+      {
+        "name": "business logo design",
+        "count": 1
+      }
+    ],
+    "deliveryDaysDistribution": [
+      {
+        "days": "1 Day",
+        "count": 0
+      },
+      {
+        "days": "2-3 Days",
+        "count": 3
+      },
+      {
+        "days": "4-7 Days",
+        "count": 1
+      },
+      {
+        "days": "8+ Days",
+        "count": 0
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": 406992482,
+      "title": "do professional minimalist and modern business logo design",
+      "url": "https://www.fiverr.com/ayesha_malik13/do-trendy-creative-business-logo-design-and-redesign",
+      "slug": "do-trendy-creative-business-logo-design-and-redesign",
+      "thumbnail": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/406992482/original/d6439d08c6f7960025f19b4a178aa04c1883e705.jpeg",
+      "seller_id": 162881697,
+      "seller_username": "ayesha_malik13",
+      "seller_displayName": "Sami Designs",
+      "seller_profileImage": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5a4fff512b7d550e38de96d3f011f4af-1787560834271/7fc1bd32-8380-4c40-8589-1e4c2f713388.jpg",
+      "seller_url": "https://www.fiverr.com/ayesha_malik13",
+      "seller_country": "PK",
+      "seller_isOnline": true,
+      "seller_isPro": false,
+      "seller_level": "level_two_seller",
+      "seller_languages": "en (Level 4), fr (Level 3), es (Level 1), de (Level 1)",
+      "seller_rating_score": 4.864536,
+      "seller_rating_count": 219,
+      "starting_price": 25,
+      "currency": "USD",
+      "recommended_package_id": 1,
+      "recommended_package_price": 25,
+      "delivery_days": 2,
+      "has_extra_fast": false,
+      "package_tier": 1,
+      "package_type": "cheapest",
+      "total_packages": 3,
+      "hourly_rate": null,
+      "position": 1,
+      "listing_type": "fiverr_choice",
+      "is_promoted": false,
+      "impression_id": "e5948474-47a2-4f20-85f9-c37995ddd89d",
+      "isFiverrChoice": true,
+      "isFeatured": false,
+      "buying_rating": 4.9,
+      "buying_review_count": 219,
+      "category_id": 3,
+      "subcategory_id": 49,
+      "nested_subcategory_id": null,
+      "isSellerUnavailable": false,
+      "offerConsultation": false,
+      "hasRecurringOptions": false,
+      "isPersonalizedPricingEnabled": true,
+      "hasVideoIntro": false,
+      "hasWorkSamples": true,
+      "gallery": [
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/406992482/original/d6439d08c6f7960025f19b4a178aa04c1883e705/do-trendy-creative-business-logo-design-and-redesign.jpeg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/406992482/original/d6439d08c6f7960025f19b4a178aa04c1883e705/do-trendy-creative-business-logo-design-and-redesign.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/406992482/original/bd24a8e18f37d671c3c10a502ad9f35e2a2d6bd2/do-trendy-creative-business-logo-design-and-redesign.jpeg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/406992482/original/bd24a8e18f37d671c3c10a502ad9f35e2a2d6bd2/do-trendy-creative-business-logo-design-and-redesign.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/406992482/original/6c2cec690f96a6e8e13241b8b1873d45c7bfcd9c/do-trendy-creative-business-logo-design-and-redesign.jpeg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/406992482/original/6c2cec690f96a6e8e13241b8b1873d45c7bfcd9c/do-trendy-creative-business-logo-design-and-redesign.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20260805/PDF 1_bbktdf.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20260805/PDF 1_bbktdf.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20260805/PDF 2_dhfjjr.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20260805/PDF 2_dhfjjr.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2cacb943c00765b2313152afb088f136-1789821818/Art%20H%202%20jpeg.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2cacb943c00765b2313152afb088f136-1789821818/Art%20H%202%20jpeg.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/3fb61463f16b5fea6da9f1c3698e13da-1789844067/Artboard-2%20%283%29.pdf",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/3fb61463f16b5fea6da9f1c3698e13da-1789844067/Artboard-2%20%283%29.pdf"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9e46f56d3f3b4bf5e824c05bbd04c938-1789764627/1.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9e46f56d3f3b4bf5e824c05bbd04c938-1789764627/1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2fa9616bb1048e06b78ef6f2e37cc197-1789464340/CBP%203.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2fa9616bb1048e06b78ef6f2e37cc197-1789464340/CBP%203.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/241096a1267c1be9029ba195e9944def-1789472502/Artboard-3-7.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/241096a1267c1be9029ba195e9944def-1789472502/Artboard-3-7.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/08f298f0874305c0754b51f69ddb67ed-1788946628/1%20%288%29.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/08f298f0874305c0754b51f69ddb67ed-1788946628/1%20%288%29.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4f80fd3b6b877570103819e3033a80bc-1789246617/1.png",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4f80fd3b6b877570103819e3033a80bc-1789246617/1.png"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/47e947155b164396ae573172d9eaa35f-1789012298/FH%202.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/47e947155b164396ae573172d9eaa35f-1789012298/FH%202.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/fe006ed27ab6f7acde42cbee2ff2e371-1788725186/asr%2001.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/fe006ed27ab6f7acde42cbee2ff2e371-1788725186/asr%2001.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1d1b414eff4465e6a26d7bf8fb894814-1788552512/Artboard-2-13.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1d1b414eff4465e6a26d7bf8fb894814-1788552512/Artboard-2-13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ae717e7414d1535287be86514de1546c-1788552214/Artboard-2-36.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ae717e7414d1535287be86514de1546c-1788552214/Artboard-2-36.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ce972c2b872f5898688a3a679afd1e55-1788528813/s%20art%202.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ce972c2b872f5898688a3a679afd1e55-1788528813/s%20art%202.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0809fda27ce18486c42377135c9b0f8c-1788300114/Artboard-2-10.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0809fda27ce18486c42377135c9b0f8c-1788300114/Artboard-2-10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1fdb4714d67ebaf08efc0a1b5e51c370-1788435540/Artboard-2-02.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1fdb4714d67ebaf08efc0a1b5e51c370-1788435540/Artboard-2-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d5b50ebe1f427a5ee367810ceff456d6-1788373378/artboard%20013.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d5b50ebe1f427a5ee367810ceff456d6-1788373378/artboard%20013.jpg"
+        }
+      ],
+      "gallery_count": 20,
+      "work_samples": [
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/2cacb943c00765b2313152afb088f136-1789821818/Art%20H%202%20jpeg.jpg",
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/9e46f56d3f3b4bf5e824c05bbd04c938-1789764627/1.jpg"
+      ],
+      "attachments_count": 2,
+      "tags": [
+        "modern logo",
+        "logo creation",
+        "logo design",
+        "minimalist logo",
+        "business logo"
+      ],
+      "metadata": {
+        "Logo style": [
+          "Minimalist"
+        ],
+        "Logo type": [
+          "Wordmark",
+          "Pictorial",
+          "Abstract"
+        ],
+        "File format": [
+          "AI",
+          "JPG",
+          "PDF",
+          "PNG",
+          "PSD",
+          "EPS",
+          "SVG"
+        ]
+      },
+      "scraped_at": "2026-09-21T16:39:18.654Z",
+      "local_currency": "PKR",
+      "local_rate": 290.7529652325,
+      "local_price": 7269,
+      "gig_id": 406992482,
+      "status": "approved",
+      "category": "Graphics & Design",
+      "category_slug": "graphics-design",
+      "subcategory": "Logo Design",
+      "subcategory_slug": "creative-logo-design",
+      "is_pro": false,
+      "is_handpicked": false,
+      "is_studio": false,
+      "orders_in_queue": 4,
+      "rating": 4.9,
+      "rating_count": 219,
+      "description": "Welcome to my gig of professional minimalist and modern business logo design.\n\nAre you looking for a modern, minimalist business logo design or brand identity for your business? Or do you have an existing logo that needs a fresh and professional redesign? You're in the right place.\n\nWith 10+ years of logo design experience and thousands of satisfied clients, I craft clean, distinctive, and timeless logos that elevate brands. Every design is thoughtfully created from scratch to reflect your unique identity.\n\nWhy Choose Me?\n\nOriginal, custom-designed logo concepts.Attention to quality, detail, and deadlines.Open to your feedback and suggestions.Unlimited revisions for your satisfaction.Full copyright and ownership.️Professional formats: AI, EPS, JPG, PNG, PDF, SVG & PSD24/7 support and friendly communication.\n\nPerfect For\n\nBusinesses, startups, companies, and personal brands looking for a clean, distinctive, and memorable logo.\n\nNote: Mascot or complex illustration projects may require a custom quote.\nHave questions or special requirements?\nFeel free to message me anytime.\n\nPlace your order today and make a lasting impression!\nSami Designs",
+      "description_html": "<p><strong>Welcome to my gig of professional minimalist and modern business logo design<em>.</em></strong></p><p><br></p><p>Are you looking for&nbsp;a<strong>&nbsp;modern, minimalist business logo design or brand identity&nbsp;</strong>for your business? Or do you have an existing logo that needs a fresh and professional redesign? You're in the right place.</p><p><br></p><p>With <strong>10+ years of logo design experience and thousands of satisfied clients</strong>, I craft <strong>clean, distinctive, and timeless logos</strong> that elevate brands. Every design is thoughtfully created from scratch to reflect your unique identity.</p><p><br></p><p><strong>Why Choose Me?</strong></p><p><br></p><ul><li>Original, custom-designed logo concepts.</li><li>Attention to quality, detail, and deadlines.</li><li>Open to your feedback and suggestions.</li><li>Unlimited revisions for your satisfaction.</li><li>Full copyright and ownership.</li><li>️Professional formats: <strong>AI, EPS, JPG, PNG, PDF, SVG &amp; PSD</strong></li><li>24/7 support and friendly communication.</li></ul><p><br></p><p><strong>Perfect For</strong></p><p><br></p><p>Businesses, startups, companies, and personal brands looking for a <strong>clean, distinctive, and memorable logo.</strong></p><p><br></p><p><strong>Note: </strong>Mascot or complex illustration projects may require a custom quote.</p><p><strong>Have questions or special requirements?</strong></p><p>Feel free to message me anytime.</p><p><br></p><p><strong>Place your order today and make a lasting impression!</strong></p><p><strong>Sami Designs</strong></p>",
+      "faq": [
+        {
+          "question": "Why should I prefer Sami Designs over others?",
+          "answer": "Choose Sami Designs because we build truly custom logos by first understanding your brand’s story and goals. You’ll be involved at every stage - sketch to final design - enjoy clear timelines and open feedback, and benefit from ongoing support for tweaks or additional file needs."
+        },
+        {
+          "question": "What is needed to get started ?",
+          "answer": "After you place an order for your favorite package, You will be directed to a questionnaire & you can fill in the requirements for me to get started with the project."
+        },
+        {
+          "question": "How Premium Package is Beneficial?",
+          "answer": "You’ll get 3 unique and HQ concepts of your logo to choose from, with unlimited revisions on the one you select. Final files include high-res JPG & PNG plus, PDF, SVG, Social Media Kit, Source file (.ai) and Vector file (.eps) and will be delivered upon finalization of a concept."
+        },
+        {
+          "question": "What is source and vector file?",
+          "answer": "Source files (ai) let you edit your logo anytime for future updates. Vector file (ep) ensure your logo stays sharp at any size, making them perfect for large prints and high-quality materials."
+        },
+        {
+          "question": "What’s included in the Stationery Design and Social Media Kit?",
+          "answer": "Stationery Design includes a business card and letterhead matching your logo; envelope design available if needed. Social Media Kit provides optimized logo versions in recommended cover and profile sizes of any three social media platforms of your own choice, in a cohesive, professional style."
+        },
+        {
+          "question": "What is a copyright documents?",
+          "answer": "Please note that once your logo is finalized, all rights will be yours and you can freely use your logo anywhere you want. But it's a recommendation to spend into the Copyrights document as it servers as a written proof of ownership."
+        }
+      ],
+      "ai_summary": [
+        "This service offers custom minimalist and modern business logo design.",
+        "Clients value high-quality, professional logos that reflect their brand.",
+        "The freelancer has a 4.9-star rating from over 200 reviews.",
+        "Revisions are unlimited, ensuring satisfaction and a unique design.",
+        "Formats include AI, EPS, JPG, PNG, PDF, SVG, and PSD for versatile use."
+      ],
+      "price_min": 25,
+      "price_max": 75,
+      "packages": [
+        {
+          "id": 1,
+          "title": "Basic Package",
+          "description": "1 logo concept + PNG Transparent and JPEG +  NO mascots & complex design\r\n\r\n",
+          "price": 25,
+          "delivery_days": 2,
+          "revisions": 5,
+          "revisions_unlimited": false,
+          "extra_fast_available": true,
+          "extra_fast_price": 25,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 1
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 50
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": false,
+              "extra_price": 25
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Copyrights Documents",
+              "price": 25,
+              "duration_days": 1
+            },
+            {
+              "label": "Business Card Design",
+              "price": 25,
+              "duration_days": 1
+            }
+          ],
+          "local_price": 7269,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 2,
+          "title": "Standard Package",
+          "description": "2 Logo Concepts + PNG Transparent + JPEG + Source  Files + 3D Mockup + Unlimited revisions",
+          "price": 50,
+          "delivery_days": 2,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": true,
+          "extra_fast_price": 30,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 2
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 50
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": false,
+              "extra_price": 25
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Copyrights Documents",
+              "price": 25,
+              "duration_days": 1
+            },
+            {
+              "label": "Business Card Design",
+              "price": 25,
+              "duration_days": 1
+            }
+          ],
+          "local_price": 14538,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 3,
+          "title": "Premium Package",
+          "description": "3 HD creative logo + All files(Ai, EPS, SVG, PDF)+ Social Media Kit + 3D Mockup\r\n\r\n",
+          "price": 75,
+          "delivery_days": 2,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": true,
+          "extra_fast_price": 40,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 3
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 50
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Copyrights Documents",
+              "price": 25,
+              "duration_days": 1
+            },
+            {
+              "label": "Business Card Design",
+              "price": 25,
+              "duration_days": 1
+            }
+          ],
+          "local_price": 21806,
+          "local_currency": "PKR"
+        }
+      ],
+      "recurring_options": [],
+      "offers_consultation": false,
+      "has_work_samples": true,
+      "has_video": false,
+      "seller": {
+        "id": 162881697,
+        "username": "ayesha_malik13",
+        "display_name": "Sami Designs",
+        "full_name": "Hunter Ouellet",
+        "country": "PK",
+        "level": "level_two_seller",
+        "is_pro": false,
+        "is_verified": false,
+        "is_online": true,
+        "one_liner": "Design is the silent ambassador of your brand!",
+        "bio": "Hello there! I'm Sami and along with my professional team, we are experts in crafting creative, unique, modern, and minimalist logos and websites that perfectly represent your brand identity. With over 8+ years of experience in graphic design, we guarantee your brand will stand out. Your satisfaction is our top priority, and we’ll keep working with you until you say, “I love what you’ve created!” Let us bring your ideas to life and help you build a brand that leaves a lasting impact.",
+        "profile_image": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/5a4fff512b7d550e38de96d3f011f4af-1787560834271/7fc1bd32-8380-4c40-8589-1e4c2f713388.jpg",
+        "profile_url": "https://www.fiverr.com/ayesha_malik13",
+        "rating": 4.9,
+        "rating_count": 219,
+        "completed_orders": 310,
+        "response_time_hours": 1,
+        "is_highly_responsive": true,
+        "member_since": "2023-10-29",
+        "recent_delivery": "2026-09-21T00:37:20.000Z",
+        "languages": "en (NATIVE_OR_BILINGUAL), fr (FLUENT), es (BASIC), de (BASIC)",
+        "skills": [
+          "Logo design",
+          "Adobe Illustrator",
+          "Adobe Photoshop",
+          "Brand development",
+          "Social media branding",
+          "Business stationery design",
+          "Modern logo design",
+          "Website development"
+        ],
+        "education": [
+          "MSC — National University of Sciences and Technology (NUST) (2016)"
+        ],
+        "certifications": [
+          "Photoshop — Adobe (2014)",
+          "Illustrator — Adobe (2014)"
+        ],
+        "hourly_rate": null,
+        "intro_video": null,
+        "on_vacation": false,
+        "agency": null,
+        "notable_clients": []
+      },
+      "reviews_summary": {
+        "total": 219,
+        "average": 4.9,
+        "communication": 4.9,
+        "quality": 4.9,
+        "value_for_money": 4.8,
+        "breakdown": {
+          "1_star": 2,
+          "2_star": 1,
+          "3_star": 3,
+          "4_star": 11,
+          "5_star": 202
+        },
+        "top_industries": [
+          "travel_or_tourism:2",
+          "media_or_entertainment:2",
+          "financial_services_or_banking:2",
+          "technology:1",
+          "retail_and_wholesale:1",
+          "marketing_or_advertising:1",
+          "food_and_beverage:1",
+          "sports_and_fitness:1",
+          "medical_or_pharmaceutical:1",
+          "photography_and_videography:1"
+        ]
+      },
+      "reviews": [
+        {
+          "id": "6a9b27d7597fff504c01d4e9",
+          "rating": 5,
+          "comment": "Excellent logo design service! The designer captured my brand perfectly and delivered a modern, professional logo. Great communication and a seamless experience from start to finish.",
+          "language": "en",
+          "reviewer": "ksiwaten",
+          "reviewer_country": "United States",
+          "created_at": "2026-09-04T20:42:34",
+          "order_duration_days": 4,
+          "order_price_range": "$50-$100",
+          "seller_response": "Thanks for trusting us and leaving back a great review! Would love to work with you again in future. We will ensure you enjoy the same level of satisfaction every time!"
+        },
+        {
+          "id": "6aaa1a054c4416097df5d0e2",
+          "rating": 5,
+          "comment": "Amazing experience! The logo came out exactly how I envisioned it, clean, elegant, and professional. The designer understood my vision for the brand and was very responsive throughout the process. I’m extremely happy with the final result and would definitely recommend!",
+          "language": "en",
+          "reviewer": "aromero89",
+          "reviewer_country": "United States",
+          "created_at": "2026-09-17T22:55:22",
+          "order_duration_days": 5,
+          "order_price_range": "$50-$100",
+          "seller_response": "Thanks for trusting us and leaving back a great review! Would love to work with you again in future. We will ensure you enjoy the same level of satisfaction every time!"
+        },
+        {
+          "id": "6a7d02f2452b7e673ee948af",
+          "rating": 5,
+          "comment": "Excellent experience from start to finish. Smooth communication, professional service, and a clean, high-quality logo that was exactly what I needed. Highly recommended!",
+          "language": "en",
+          "reviewer": "rolsmit",
+          "reviewer_country": "United States",
+          "created_at": "2026-08-13T00:20:49",
+          "order_duration_days": 2,
+          "order_price_range": "Up to $50",
+          "seller_response": "thank you! "
+        },
+        {
+          "id": "6aa0717767b65e2ed8dc8496",
+          "rating": 5,
+          "comment": "Salwa did an excellent job with my logo design! The final result was creative, professional, and exactly what I was looking for. Communication was smooth, revisions were handled carefully, and the overall quality exceeded my expectations. Highly recommended for anyone looking for a talented and reliable logo designer. Thank you, Salwa!\n\n",
+          "language": "en",
+          "reviewer": "kie_olsome",
+          "reviewer_country": "United States",
+          "created_at": "2026-09-08T22:03:15",
+          "order_duration_days": 3,
+          "order_price_range": "$200-$400",
+          "seller_response": "thank you! "
+        },
+        {
+          "id": "6a92d9070d21846011f49336",
+          "rating": 5,
+          "comment": "I’m extremely happy with the logo Sami designed for my business. Great communication, fast delivery, and excellent creativity. Would definitely work with him again.\n\n",
+          "language": "en",
+          "reviewer": "hiloemee3",
+          "reviewer_country": "United States",
+          "created_at": "2026-08-29T13:30:11",
+          "order_duration_days": 2,
+          "order_price_range": "$50-$100",
+          "seller_response": null
+        }
+      ],
+      "other_gigs_count": null
+    },
+    {
+      "id": 317747965,
+      "title": "do professional, modern and best business logo design",
+      "url": "https://www.fiverr.com/logo_expert091/do-professional-business-logo-design-at-a-competitive-price",
+      "slug": "do-professional-business-logo-design-at-a-competitive-price",
+      "thumbnail": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/317747965/original/a390e012f74e4f018393453218b13fd5e0726bc1.jpg",
+      "seller_id": 115194668,
+      "seller_username": "logo_expert091",
+      "seller_displayName": "Muhammad M",
+      "seller_profileImage": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/dad9630f35c2ffd17201c61ec450801a-1633588429471/f7b65cbd-3e2e-4587-9bf2-45971e60a563.jpg",
+      "seller_url": "https://www.fiverr.com/logo_expert091",
+      "seller_country": "PK",
+      "seller_isOnline": true,
+      "seller_isPro": false,
+      "seller_level": "level_two_seller",
+      "seller_languages": "en (Level 3), es (Level 1), de (Level 1), fr (Level 1)",
+      "seller_rating_score": 4.8029466,
+      "seller_rating_count": 1358,
+      "starting_price": 20,
+      "currency": "USD",
+      "recommended_package_id": 1,
+      "recommended_package_price": 20,
+      "delivery_days": 2,
+      "has_extra_fast": false,
+      "package_tier": 1,
+      "package_type": "cheapest",
+      "total_packages": 3,
+      "hourly_rate": null,
+      "position": 2,
+      "listing_type": "organic",
+      "is_promoted": false,
+      "impression_id": "7f7474a3-830f-4814-b50f-3b3fa54055d8",
+      "isFiverrChoice": false,
+      "isFeatured": false,
+      "buying_rating": 4.8,
+      "buying_review_count": 1169,
+      "category_id": 3,
+      "subcategory_id": 49,
+      "nested_subcategory_id": null,
+      "isSellerUnavailable": false,
+      "offerConsultation": false,
+      "hasRecurringOptions": true,
+      "isPersonalizedPricingEnabled": true,
+      "hasVideoIntro": false,
+      "hasWorkSamples": true,
+      "gallery": [
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/317747965/original/a390e012f74e4f018393453218b13fd5e0726bc1/do-professional-business-logo-design-at-a-competitive-price.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/317747965/original/a390e012f74e4f018393453218b13fd5e0726bc1/do-professional-business-logo-design-at-a-competitive-price.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/317747965/original/f218f40189307884d0e8c2a547c3763879d301d5/do-professional-business-logo-design-at-a-competitive-price.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/317747965/original/f218f40189307884d0e8c2a547c3763879d301d5/do-professional-business-logo-design-at-a-competitive-price.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/317747965/original/6054cd0f7b8a5c6df55a8638ad17e0a5cc881849/do-professional-business-logo-design-at-a-competitive-price.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/317747965/original/6054cd0f7b8a5c6df55a8638ad17e0a5cc881849/do-professional-business-logo-design-at-a-competitive-price.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d844853e8e1368caf00ab255de135992-1789994614/mockup-5-1.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d844853e8e1368caf00ab255de135992-1789994614/mockup-5-1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41b008a833ddf71f4e694afa126ec68d-1789943938/MOCKUP-6.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/41b008a833ddf71f4e694afa126ec68d-1789943938/MOCKUP-6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/21f493700b06b71e1f0bac0005c33999-1789838136/mockup-4.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/21f493700b06b71e1f0bac0005c33999-1789838136/mockup-4.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/de414ec6931c5d6a4bff9d2b37c1c55a-1789416787/bvvc.png",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/de414ec6931c5d6a4bff9d2b37c1c55a-1789416787/bvvc.png"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0b2abcd696f2b3028b9cb558e36ad8b7-1789532620/FGA%20Logo._.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0b2abcd696f2b3028b9cb558e36ad8b7-1789532620/FGA%20Logo._.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7941991c80fec3603bda16ff90dd3df4-1789656469/WRAP-JPEG.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7941991c80fec3603bda16ff90dd3df4-1789656469/WRAP-JPEG.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e6004ddbae49c79c29d3971c660fe820-1787960391/Artboard-2%20%2817%29.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e6004ddbae49c79c29d3971c660fe820-1787960391/Artboard-2%20%2817%29.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/191a0f30948b546912ed2a0490c61821-1789115876/mockup.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/191a0f30948b546912ed2a0490c61821-1789115876/mockup.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b9913950a2452fcfbacfef68d91e04c5-1787709485/Delavan%20Lake%20Wave%20Runner%20Rentals%20LLC.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b9913950a2452fcfbacfef68d91e04c5-1787709485/Delavan%20Lake%20Wave%20Runner%20Rentals%20LLC.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3519475f3830301c1825475ebd5e9861-1787615295/Lucky%2013%20Off-road%20Adventures_.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3519475f3830301c1825475ebd5e9861-1787615295/Lucky%2013%20Off-road%20Adventures_.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4c905aeca11d6e3e82b2a299439c3a4f-1787751040/Artboard%201%20%2828%29.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4c905aeca11d6e3e82b2a299439c3a4f-1787751040/Artboard%201%20%2828%29.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3d913d1d6681eb2d17c78eac504d4973-1788993741/3%20%281%29.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3d913d1d6681eb2d17c78eac504d4973-1788993741/3%20%281%29.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/73b804cae027a0f68f9c6990e8d4df9b-1788614899/ZM%20LOGO%20%281%29.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/73b804cae027a0f68f9c6990e8d4df9b-1788614899/ZM%20LOGO%20%281%29.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3dc130868aa24e4203eee75de215c4f0-1788618078/BURGER%20LOGO%20%282%29.png",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3dc130868aa24e4203eee75de215c4f0-1788618078/BURGER%20LOGO%20%282%29.png"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/22cded06de5a2536909a6dfdac0020c3-1787419643/IMG-20260822-WA0009.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/22cded06de5a2536909a6dfdac0020c3-1787419643/IMG-20260822-WA0009.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/99fb35c0bd363fa3ac7cfff6fc6744f1-1788539961/mockup%202.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/99fb35c0bd363fa3ac7cfff6fc6744f1-1788539961/mockup%202.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/811e9b43b5a1fde785a7cdcc1b41b38e-1787935947/Go%20Trip%20Now-01%20%282%29.png",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/811e9b43b5a1fde785a7cdcc1b41b38e-1787935947/Go%20Trip%20Now-01%20%282%29.png"
+        }
+      ],
+      "gallery_count": 20,
+      "work_samples": [
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/d844853e8e1368caf00ab255de135992-1789994614/mockup-5-1.jpg",
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/41b008a833ddf71f4e694afa126ec68d-1789943938/MOCKUP-6.jpg",
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/21f493700b06b71e1f0bac0005c33999-1789838136/mockup-4.jpg",
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/7941991c80fec3603bda16ff90dd3df4-1789656469/WRAP-JPEG.jpg",
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/0b2abcd696f2b3028b9cb558e36ad8b7-1789532620/FGA%20Logo._.jpg"
+      ],
+      "attachments_count": 5,
+      "tags": [
+        "logo design",
+        "creative logo design",
+        "modern",
+        "business logo",
+        "professional logo"
+      ],
+      "metadata": {
+        "Logo style": [
+          "Modern"
+        ],
+        "Logo type": [
+          "Monogram",
+          "Wordmark",
+          "Abstract"
+        ],
+        "File format": [
+          "AI",
+          "JPG",
+          "PDF",
+          "PNG",
+          "PSD",
+          "EPS",
+          "CDR",
+          "SVG"
+        ]
+      },
+      "scraped_at": "2026-09-21T16:39:20.695Z",
+      "local_currency": "PKR",
+      "local_rate": 290.7529652325,
+      "local_price": 5815,
+      "gig_id": 317747965,
+      "status": "approved",
+      "category": "Graphics & Design",
+      "category_slug": "graphics-design",
+      "subcategory": "Logo Design",
+      "subcategory_slug": "creative-logo-design",
+      "is_pro": false,
+      "is_handpicked": false,
+      "is_studio": false,
+      "orders_in_queue": 4,
+      "rating": 4.8,
+      "rating_count": 1169,
+      "description": "Welcome to my professional business logo design gig!\n\nAre you in need of a high-quality logo that captures the essence of your brand? Look no further! I specialize in creating professional and eye-catching logos for businesses of all types and sizes.\n\nWith my expertise in graphic design and branding, I understand the significance of a well-crafted logo in establishing a strong brand identity. I take a collaborative approach, working closely with you to understand your vision, target audience, and unique selling points. This enables me to create a design that not only stands out but also resonates with your target market.\n\nWhen you choose my logo design service, you can expect:\n\nCustom logo designs tailored to your specific needsCreative concepts that reflect your brand's values and personalityUnlimited revisions until you are completely satisfiedHigh-resolution files in various formats for both print and digital useQuick turnaround time without compromising qualityFriendly and prompt communication throughout the entire process\n\nReady to get started? Contact me now, and let's discuss your design needs. \n\nOrder a Gig Now!!!",
+      "description_html": "<p><strong><u>Welcome to my professional business logo design gig!</u></strong></p><p><br></p><p>Are you in need of a high-quality logo that captures the essence of your brand? Look no further! I specialize in creating professional and eye-catching logos for businesses of all types and sizes.</p><p><br></p><p>With my expertise in graphic design and branding, I understand the significance of a well-crafted logo in establishing a strong brand identity. I take a collaborative approach, working closely with you to understand your vision, target audience, and unique selling points. This enables me to create a design that not only stands out but also resonates with your target market.</p><p><br></p><p><strong><u>When you choose my logo design service, you can expect:</u></strong></p><p><br></p><ul><li>Custom logo designs tailored to your specific needs</li><li>Creative concepts that reflect your brand's values and personality</li><li>Unlimited revisions until you are completely satisfied</li><li>High-resolution files in various formats for both print and digital use</li><li>Quick turnaround time without compromising quality</li><li>Friendly and prompt communication throughout the entire process</li></ul><p><br></p><p><strong>Ready to get started? Contact me now, and let's discuss your design needs. </strong></p><p><br></p><p><strong><u>Order a Gig Now!!!</u></strong></p>",
+      "faq": [
+        {
+          "question": "What information do I need to get started with your logo design?",
+          "answer": "Once your order is placed, I’ll ask a few quick questions to get a feel for your brand—like your business name, a short overview, and any design ideas you’re envisioning. With that, I’ll create a logo that captures your brand’s identi"
+        },
+        {
+          "question": "Which package should I choose ?",
+          "answer": "Always premium as premium offer more logo design options to choose from and Social media kit with logo source files and vector files. We also offer 3 more options for full brand identity and full brand guidelines which will include typography colors guide etc., Conta"
+        },
+        {
+          "question": "Social media kit or Stationary kit in the premium package?",
+          "answer": "Social media kit in the package include Solid color background with the logo on top for all the social media (Facebook, Twitter, LinkedIn, X) Stationary design will include A business card only in the Premium package. NOTE: For detailed ban"
+        },
+        {
+          "question": "What is included in Vector/Source files?",
+          "answer": "Vector/source files are the original, editable formats—like AI, EPS, and PDF—that let you scale your logo to any size without losing quality. They're perfect for printing, resizing, or making future tweaks, giving you full flexibility and control over your b"
+        },
+        {
+          "question": "What is a 3D mockup?",
+          "answer": "A 3D mockup shows how your logo would look in real-life settings—like storefronts, products, or packaging. It adds depth and realism, helping you visualize the final design before it goes live."
+        },
+        {
+          "question": "Do you offer website or UI or Development service?",
+          "answer": "Yes, We offer all development , Ui. and Drop shopping/Ecom site design or development service."
+        },
+        {
+          "question": "Concept what does it mean? And what if we didn't like it?",
+          "answer": "Concept mean if you asked for a logo we will design 1 to 3 options where you can pick any one and ask for revision or request for new concept if you doesn't like it. But if you liked the logo and after few revision you asked for a new concep"
+        }
+      ],
+      "ai_summary": [
+        "This service offers custom logo design with creative concepts.",
+        "Clients praise professional work and smooth collaboration.",
+        "This freelancer has over 1,100 reviews with a 4.8-star rating.",
+        "Additional services include high-resolution files and quick delivery.",
+        "Designs reflect brand values, with unlimited revisions for satisfaction."
+      ],
+      "price_min": 20,
+      "price_max": 75,
+      "packages": [
+        {
+          "id": 1,
+          "title": "BASIC PACKAGE",
+          "description": "1 logo concepts + JPEG + PNG files + unlimited Revisions ",
+          "price": 20,
+          "delivery_days": 2,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": true,
+          "extra_fast_price": 20,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 1
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": false,
+              "extra_price": 15
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 60
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": false,
+              "extra_price": 30
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Copyrights Documents",
+              "price": 40,
+              "duration_days": 1
+            },
+            {
+              "label": "Business Card Design",
+              "price": 30,
+              "duration_days": 1
+            },
+            {
+              "label": "Brand Style Guide",
+              "price": 200,
+              "duration_days": 3
+            },
+            {
+              "label": "Letterhead Design",
+              "price": 40,
+              "duration_days": 1
+            },
+            {
+              "label": "Website Development",
+              "price": 250,
+              "duration_days": 3
+            }
+          ],
+          "local_price": 5815,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 2,
+          "title": "STANDARD PACKAGE",
+          "description": "2 unique logo concepts + Source files + Transparent files + 3D mockup + unlimited revisions",
+          "price": 50,
+          "delivery_days": 2,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": true,
+          "extra_fast_price": 25,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 2
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 60
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": false,
+              "extra_price": 30
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Copyrights Documents",
+              "price": 40,
+              "duration_days": 1
+            },
+            {
+              "label": "Business Card Design",
+              "price": 30,
+              "duration_days": 1
+            },
+            {
+              "label": "Brand Style Guide",
+              "price": 200,
+              "duration_days": 3
+            },
+            {
+              "label": "Letterhead Design",
+              "price": 40,
+              "duration_days": 1
+            },
+            {
+              "label": "Website Development",
+              "price": 250,
+              "duration_days": 3
+            }
+          ],
+          "local_price": 14538,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 3,
+          "title": "PREMIUM PACKAGE\r\n",
+          "description": "4 Creative & unique logo options + All files  + Social Media Kit + Priority Support",
+          "price": 75,
+          "delivery_days": 2,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": true,
+          "extra_fast_price": 30,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 4
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 20
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 60
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Copyrights Documents",
+              "price": 40,
+              "duration_days": 1
+            },
+            {
+              "label": "Business Card Design",
+              "price": 30,
+              "duration_days": 1
+            },
+            {
+              "label": "Brand Style Guide",
+              "price": 200,
+              "duration_days": 3
+            },
+            {
+              "label": "Letterhead Design",
+              "price": 40,
+              "duration_days": 1
+            },
+            {
+              "label": "Website Development",
+              "price": 250,
+              "duration_days": 3
+            }
+          ],
+          "local_price": 21806,
+          "local_currency": "PKR"
+        }
+      ],
+      "recurring_options": [
+        {
+          "discount_percent": 20,
+          "duration": 6,
+          "unit": "month"
+        }
+      ],
+      "offers_consultation": false,
+      "has_work_samples": true,
+      "has_video": false,
+      "seller": {
+        "id": 115194668,
+        "username": "logo_expert091",
+        "display_name": "Muhammad M",
+        "full_name": null,
+        "country": "PK",
+        "level": "level_two_seller",
+        "is_pro": false,
+        "is_verified": false,
+        "is_online": true,
+        "one_liner": "Professional Logo designer",
+        "bio": "Welcome to my profile! I am MUHAMMAD Mehmood, a passionate and experienced logo designer with a strong focus on creating unique and impactful brand identities. With a proven track record in the industry,\n\nDesign is my passion, and I believe in the power of a well-crafted logo to leave a lasting impression. I take a collaborative approach, working closely with clients to understand their brand values, target audience, and industry landscape. ",
+        "profile_image": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/dad9630f35c2ffd17201c61ec450801a-1633588429471/f7b65cbd-3e2e-4587-9bf2-45971e60a563.jpg",
+        "profile_url": "https://www.fiverr.com/logo_expert091",
+        "rating": 4.8,
+        "rating_count": 1358,
+        "completed_orders": 2591,
+        "response_time_hours": 1,
+        "is_highly_responsive": true,
+        "member_since": "2021-10-07",
+        "recent_delivery": "2026-09-21T13:43:43.000Z",
+        "languages": "en (FLUENT), es (BASIC), de (BASIC), fr (BASIC)",
+        "skills": [
+          "Logo design",
+          "Adobe Illustrator",
+          "Adobe Photoshop",
+          "Flyer design",
+          "Business stationery design",
+          "Company branding",
+          "Social media kit",
+          "Creative design",
+          "Company logo design"
+        ],
+        "education": [
+          "MSC — University of Azad Jammu & Kashmir (2012)"
+        ],
+        "certifications": [
+          "Illustrator — Adobe (2013)",
+          "Photoshop — Adobe (2013)"
+        ],
+        "hourly_rate": null,
+        "intro_video": null,
+        "on_vacation": false,
+        "agency": null,
+        "notable_clients": []
+      },
+      "reviews_summary": {
+        "total": 1169,
+        "average": 4.8,
+        "communication": 4.8,
+        "quality": 4.8,
+        "value_for_money": 4.8,
+        "breakdown": {
+          "1_star": 11,
+          "2_star": 9,
+          "3_star": 20,
+          "4_star": 108,
+          "5_star": 1021
+        },
+        "top_industries": [
+          "art_and_design:14",
+          "technology:12",
+          "transportation_or_automotive:11",
+          "financial_services_or_banking:9",
+          "education:7",
+          "marketing_or_advertising:7",
+          "sports_and_fitness:7",
+          "services:7",
+          "construction:6",
+          "media_or_entertainment:6",
+          "real_estate:6",
+          "fashion_and_apparel:5",
+          "retail_and_wholesale:5",
+          "medical_or_pharmaceutical:5",
+          "agriculture:3",
+          "animals_and_pets:3",
+          "photography_and_videography:2",
+          "non_profit:2",
+          "events_planning:1",
+          "environmental:1",
+          "legal:1",
+          "beauty_and_cosmetics:1",
+          "writing_and_publishing:1"
+        ]
+      },
+      "reviews": [
+        {
+          "id": "6a91c0c1cb7401033b04eba7",
+          "rating": 5,
+          "comment": "This was my second time working with Muhammad M for logo design, and he delivered exceptional work just like the first time. Highly recommended if you want professional design and smooth collaboration. I will definitely work with him again!",
+          "language": "en",
+          "reviewer": "wlaeed0012",
+          "reviewer_country": "Switzerland",
+          "created_at": "2026-08-28T17:38:24",
+          "order_duration_days": 4,
+          "order_price_range": "Up to $50",
+          "seller_response": null
+        },
+        {
+          "id": "6a8b3f75eb72d74a6aa3b35d",
+          "rating": 5,
+          "comment": "Really happy with the work from Muhammad M! They designed my logo beautifully and the quality was honestly much better than I expected. The designs were creative, professional and exactly what I was looking for. Great value for money and I’m completely satisfied with the service. Highly recommended!\n\n",
+          "language": "en",
+          "reviewer": "ciheemo1",
+          "reviewer_country": "United States",
+          "created_at": "2026-08-23T19:34:54",
+          "order_duration_days": 1,
+          "order_price_range": "Up to $50",
+          "seller_response": null
+        },
+        {
+          "id": "6a973a0014041e0b0873dd1e",
+          "rating": 1,
+          "comment": "Worst Fiverr experience I’ve had. I had already created the website and designed the page—I simply hired this seller to add it. Instead, they caused a critical error that left my website inaccessible.\n\nWhat should have been a straightforward job has now resulted in me having to hire someone else to repair and potentially redo the site, costing me additional time and money.\n\nExtremely disappointing experience. I strongly recommend looking elsewhere for a web designer/developer.",
+          "language": "en",
+          "reviewer": "moderngent00",
+          "reviewer_country": "United States",
+          "created_at": "2026-09-08T17:33:24",
+          "order_duration_days": 14,
+          "order_price_range": "$100-$200",
+          "seller_response": null
+        },
+        {
+          "id": "6a393ae1a265934130f1eca6",
+          "rating": 5,
+          "comment": "The seller did an outstanding job from start to finish. The quality of the work far exceeded my expectations. I’m very pleased with the final result and would definitely return for future projects. Truly a great experience!",
+          "language": "en",
+          "reviewer": "lackview",
+          "reviewer_country": "Canada",
+          "created_at": "2026-07-06T13:40:44",
+          "order_duration_days": 2,
+          "order_price_range": "Up to $50",
+          "seller_response": null
+        },
+        {
+          "id": "6a4b86c5a2534d638d6052b3",
+          "rating": 5,
+          "comment": "Muhammad, thank you so much for recreating my design so closely to my original logo. I truly appreciate your attention to detail, professionalism, and the quick turnaround. It was a pleasure working with you!",
+          "language": "en",
+          "reviewer": "mimibedstuy",
+          "reviewer_country": "United States",
+          "created_at": "2026-07-20T10:40:06",
+          "order_duration_days": 4,
+          "order_price_range": "Up to $50",
+          "seller_response": null
+        }
+      ],
+      "other_gigs_count": null
+    },
+    {
+      "id": 115533372,
+      "title": "design a creative minimalist logo",
+      "url": "https://www.fiverr.com/loftydesignshop/do-modern-minimalist-logo-design-for-your-business",
+      "slug": "do-modern-minimalist-logo-design-for-your-business",
+      "thumbnail": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/115533372/original/36a26451dd7876335f8f646d41edf6868bea0a93.jpg",
+      "seller_id": 70944075,
+      "seller_username": "loftydesignshop",
+      "seller_displayName": "Alpa",
+      "seller_profileImage": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d93001bdcba7f9235745299f61850b71-1657200241990/24f7d64e-5d25-41b3-8175-c79ea47e35d1.jpg",
+      "seller_url": "https://www.fiverr.com/loftydesignshop",
+      "seller_country": "IN",
+      "seller_isOnline": true,
+      "seller_isPro": true,
+      "seller_level": "top_rated_seller",
+      "seller_languages": "en (Level 3)",
+      "seller_rating_score": 4.906201,
+      "seller_rating_count": 15376,
+      "starting_price": 110,
+      "currency": "USD",
+      "recommended_package_id": 1,
+      "recommended_package_price": 110,
+      "delivery_days": 2,
+      "has_extra_fast": false,
+      "package_tier": 1,
+      "package_type": "cheapest",
+      "total_packages": 3,
+      "hourly_rate": 45,
+      "position": 3,
+      "listing_type": "organic",
+      "is_promoted": false,
+      "impression_id": "cd8ed79d-c7c0-49f3-aebc-ef09439b5960",
+      "isFiverrChoice": false,
+      "isFeatured": false,
+      "buying_rating": 4.9,
+      "buying_review_count": 12752,
+      "category_id": 3,
+      "subcategory_id": 49,
+      "nested_subcategory_id": null,
+      "isSellerUnavailable": false,
+      "offerConsultation": true,
+      "hasRecurringOptions": true,
+      "isPersonalizedPricingEnabled": true,
+      "hasVideoIntro": false,
+      "hasWorkSamples": true,
+      "gallery": [
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/115533372/original/36a26451dd7876335f8f646d41edf6868bea0a93/do-modern-minimalist-logo-design-for-your-business.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/115533372/original/36a26451dd7876335f8f646d41edf6868bea0a93/do-modern-minimalist-logo-design-for-your-business.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/115533372/original/4a034c246d30934aa2ba74192678cb1a76bc3684/do-modern-minimalist-logo-design-for-your-business.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/115533372/original/4a034c246d30934aa2ba74192678cb1a76bc3684/do-modern-minimalist-logo-design-for-your-business.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/115533372/original/8eafe4475f1cebcbe20f1679a7d672b1303ee6e0/do-modern-minimalist-logo-design-for-your-business.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/115533372/original/8eafe4475f1cebcbe20f1679a7d672b1303ee6e0/do-modern-minimalist-logo-design-for-your-business.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/892c05f6710725f11b2df5b5e413264d-1717494563/Logo%20Mockup.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/892c05f6710725f11b2df5b5e413264d-1717494563/Logo%20Mockup.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a5bac51dd37bfaa9214f76567147bff5-1689765624/Logo%20Presentation-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a5bac51dd37bfaa9214f76567147bff5-1689765624/Logo%20Presentation-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/58bcfb33050afecf93215cfa13d6e756-1679564065/28288_Wooden%20Wares%20Online_HV_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/58bcfb33050afecf93215cfa13d6e756-1679564065/28288_Wooden%20Wares%20Online_HV_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d563f1245ae0132d4c1ca21f533b62e5-1673262633/27428_Vadken%20medical_JK_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d563f1245ae0132d4c1ca21f533b62e5-1673262633/27428_Vadken%20medical_JK_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/853b847e0b2c6f8aecb2e7d28c655697-1674034707/27570_Action_UP_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/853b847e0b2c6f8aecb2e7d28c655697-1674034707/27570_Action_UP_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3e8cfbe1100847e5df47bc5d98c9b7d4-1673955645/27545_Daily%20Intern%20News_RD_KC_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3e8cfbe1100847e5df47bc5d98c9b7d4-1673955645/27545_Daily%20Intern%20News_RD_KC_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/611e5f0a6917d31b6bf4b95333ad856e-1673527362/27486_27486_Asthvruksh%20_DV_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/611e5f0a6917d31b6bf4b95333ad856e-1673527362/27486_27486_Asthvruksh%20_DV_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ae80a50afc70ce3f177a22c9362ee394-1673346768/27447_Chaussures_RD_KC_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ae80a50afc70ce3f177a22c9362ee394-1673346768/27447_Chaussures_RD_KC_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d22f29587f4dcfc0a639d37733606125-1673341357/27443_Tax%20own_RD_MM_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d22f29587f4dcfc0a639d37733606125-1673341357/27443_Tax%20own_RD_MM_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/27b9331133f71729ddb7712d03043d63-1672131777/27249_Macu%20Photography_JK_M.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/27b9331133f71729ddb7712d03043d63-1672131777/27249_Macu%20Photography_JK_M.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d15da51aec19910a49c33e44ae28893c-1672201226/27251_Stigma%20Studio_UP_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d15da51aec19910a49c33e44ae28893c-1672201226/27251_Stigma%20Studio_UP_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4ac03a5012a4cf28e672035a208f79d1-1672230128/27261_BUWAN_JK_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4ac03a5012a4cf28e672035a208f79d1-1672230128/27261_BUWAN_JK_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5b938775c4395875131e2e53fca4905b-1671798780/27203_Bellissima%20Customs_UP_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5b938775c4395875131e2e53fca4905b-1671798780/27203_Bellissima%20Customs_UP_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/fc5c95dfa15aa7c149ec21939390cc65-1671881116/27217_DONATY_HV_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/fc5c95dfa15aa7c149ec21939390cc65-1671881116/27217_DONATY_HV_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3444dc045a74fb148abdc9668f97a560-1671706689/27190_Only%20Luna%20_DV_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3444dc045a74fb148abdc9668f97a560-1671706689/27190_Only%20Luna%20_DV_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bcbb7ceebcf3ee2f21ddc6fa35b70a8c-1671617277/27167_Drum%20Recyclers%20Australia_JK_M-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/bcbb7ceebcf3ee2f21ddc6fa35b70a8c-1671617277/27167_Drum%20Recyclers%20Australia_JK_M-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/27428c4740a02a8014f1c40dca50929f-1671535648/27156_Kings%20Outdoors_AS_M%201-01.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/27428c4740a02a8014f1c40dca50929f-1671535648/27156_Kings%20Outdoors_AS_M%201-01.jpg"
+        }
+      ],
+      "gallery_count": 20,
+      "work_samples": [
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/892c05f6710725f11b2df5b5e413264d-1717494563/Logo%20Mockup.jpg"
+      ],
+      "attachments_count": 1,
+      "tags": [
+        "modern logo",
+        "logo design",
+        "minimal logo",
+        "flat logo",
+        "business logo"
+      ],
+      "metadata": {
+        "Logo style": [
+          "Minimalist"
+        ],
+        "Logo type": [
+          "Wordmark",
+          "Pictorial",
+          "Emblem"
+        ],
+        "File format": [
+          "AI",
+          "JPG",
+          "PDF",
+          "PNG",
+          "PSD",
+          "EPS",
+          "SVG"
+        ]
+      },
+      "scraped_at": "2026-09-21T16:39:22.870Z",
+      "local_currency": "PKR",
+      "local_rate": 290.7529652325,
+      "local_price": 31983,
+      "gig_id": 115533372,
+      "status": "approved",
+      "category": "Graphics & Design",
+      "category_slug": "graphics-design",
+      "subcategory": "Logo Design",
+      "subcategory_slug": "creative-logo-design",
+      "is_pro": true,
+      "is_handpicked": false,
+      "is_studio": false,
+      "orders_in_queue": 109,
+      "rating": 4.9,
+      "rating_count": 12752,
+      "description": "Hello there!\nYou are welcome to creative minimalist logo design gig.\n\nNo logo, No business identity\nI'm Alpa. I am running loftydesignshop studio on the Fiverr platform with more than 5 years of experience. We are a creative team. We help buyers to provide their business identity through their logo.\n\nCompleted 29000+ orders | Trusted Seller since 2018 | Quick Response\n\nWhy me?\n\nMinimalist Design ExpertPrintable and website use formatsBuyers will have all the rights after the order is delivered\n\nDeliverables format:\nYou will receive the vector and source files in - ai, eps, PSD, pdf formats with high quality JPG file.\n\nNOTE :\n- we don't draw cartoon/mascot (ex: KFC logo) character design.\n- We work every day except Sunday.\n\nMinimalist | Minimal | Feminine | Modern | Real Estate | YouTube Channel | Beauty | Professional | Typography | Social Media | Technology | Retail | Flat | Luxury | Monogram | Badge | Creative | Text-Based & Custom | Construction | Travel | Line Art | Business logo & Branding \n\nIf you have any other questions, you can always contact me here. I am happy to help you!\nThanks!",
+      "description_html": "<p><strong><u>Hello</u></strong> there!</p><p>You are welcome to creative minimalist logo design gig.</p><p><br></p><p><strong><u>No logo, No business identity</u></strong></p><p>I'm Alpa. I am running loftydesignshop studio on the Fiverr platform with more than 5 years of experience. We are a creative team. We help buyers to provide their business identity through their logo.</p><p><br></p><p><strong><u>Completed 29000+ orders | Trusted Seller since 2018 |&nbsp;Quick Response</u></strong></p><p><br></p><p><strong>Why me?</strong></p><p><br></p><ul><li>Minimalist Design Expert</li><li>Printable and website use formats</li><li>Buyers will have all the rights after the order is delivered</li></ul><p><br></p><p><strong><u>Deliverables format</u></strong>:</p><p>You will receive the vector and source files in - ai, eps, PSD, pdf formats with high quality JPG file.</p><p><br></p><p><strong><u>NOTE :</u></strong></p><p>- we don't draw cartoon/mascot (ex: <strong>KFC logo</strong>) character design.</p><p>- We work every day except Sunday.</p><p><br></p><p>Minimalist | Minimal | Feminine | Modern | Real Estate | YouTube Channel | Beauty | Professional | Typography | Social Media | Technology | Retail | Flat | Luxury | Monogram | Badge | Creative | Text-Based &amp; Custom | Construction | Travel | Line Art | Business logo &amp; Branding </p><p><br></p><p>If you have any other questions, you can always contact me here. I am happy to help you!</p><p><u>Thanks!</u></p>",
+      "faq": [
+        {
+          "question": "I am a newbie to fiverr. How do I get started?",
+          "answer": "It's an easy process, You can choose your preferred package and place an order. Once it's done, You'll see a form of a few questions about logo requirements. You've to fill it and submit it. Also, You can reach me via fiverr inbox for more information or clarification."
+        },
+        {
+          "question": "Which package should I select to get the best design?",
+          "answer": "I recommend the standard/premium package. You'll get the best quality of the logo and value for money design!"
+        },
+        {
+          "question": "I'm not sure about packages, do you offer a custom package?",
+          "answer": "Yes, Definitely!\r\nYou can reach me out via fiverr inbox to discuss your requirements and I’ll give the quote and create a custom offer for you!"
+        },
+        {
+          "question": "What is a vector/source file?",
+          "answer": "A vector file is a logo/image that can be made infinitely large or small without losing quality. You are able to change the color, font, and sizes, if you're familiar with the adobe illustrator software. The vector file types include . AI (Adobe Illustrator), . EPS."
+        },
+        {
+          "question": "What is a 3D mock up?",
+          "answer": "Your 2D/basic logo design is represented in the 3D view. It gives your design a special 3D effect that stands out!"
+        },
+        {
+          "question": "Do we work on weekends?",
+          "answer": "No, We take rest on Sunday. But, You'll receive your revision order on Monday for sure. So, Don't worry about it."
+        }
+      ],
+      "ai_summary": [
+        "This service offers minimalist logo design with a 4.9-star rating.",
+        "Clients praise quick responses and professional revisions.",
+        "The freelancer has completed over 12,700 orders since 2018.",
+        "Deliverables include vector and source files in multiple formats.",
+        "Specializes in modern, feminine, and business branding logos."
+      ],
+      "price_min": 110,
+      "price_max": 310,
+      "packages": [
+        {
+          "id": 1,
+          "title": "▼ 𝗕𝗮𝘀𝗶𝗰 Logo 𝗣𝗮𝗰𝗸𝗮𝗴𝗲",
+          "description": "1 Logo Design Concept + JPG and PNG (transparent background) Files + 2 Revisions",
+          "price": 110,
+          "delivery_days": 2,
+          "revisions": 2,
+          "revisions_unlimited": false,
+          "extra_fast_available": false,
+          "extra_fast_price": null,
+          "extra_fast_days": null,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 1
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": false,
+              "extra_price": 110
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 155
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Tip For Coffee",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "Bunch Of Source File",
+              "price": 110,
+              "duration_days": 2
+            },
+            {
+              "label": "Color Codes File",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "Font File",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "5k With 500dpi Logo",
+              "price": 25,
+              "duration_days": 2
+            }
+          ],
+          "local_price": 31983,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 2,
+          "title": "▼ 𝗛𝗶𝗴𝗵 𝘀𝗲𝗹𝗹𝗶𝗻𝗴",
+          "description": "2 Logo Design Concepts +\r\nSource and Vector Files + 8 Revisions",
+          "price": 210,
+          "delivery_days": 2,
+          "revisions": 8,
+          "revisions_unlimited": false,
+          "extra_fast_available": false,
+          "extra_fast_price": null,
+          "extra_fast_days": null,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 2
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": false,
+              "extra_price": 110
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 155
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Tip For Coffee",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "Bunch Of Source File",
+              "price": 110,
+              "duration_days": 2
+            },
+            {
+              "label": "Color Codes File",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "Font File",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "5k With 500dpi Logo",
+              "price": 25,
+              "duration_days": 2
+            }
+          ],
+          "local_price": 61058,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 3,
+          "title": "▼ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗣𝗮𝗰𝗸𝗮𝗴𝗲",
+          "description": "3 Logo Design Concepts + 3D Mockup + Priority Support +  Unlimited Revisions +\r\nAll File Formats",
+          "price": 310,
+          "delivery_days": 2,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": false,
+          "extra_fast_price": null,
+          "extra_fast_days": null,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 3
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 55
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 155
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Tip For Coffee",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "Bunch Of Source File",
+              "price": 110,
+              "duration_days": 2
+            },
+            {
+              "label": "Color Codes File",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "Font File",
+              "price": 25,
+              "duration_days": 2
+            },
+            {
+              "label": "5k With 500dpi Logo",
+              "price": 25,
+              "duration_days": 2
+            }
+          ],
+          "local_price": 90133,
+          "local_currency": "PKR"
+        }
+      ],
+      "recurring_options": [
+        {
+          "discount_percent": 20,
+          "duration": 6,
+          "unit": "month"
+        },
+        {
+          "discount_percent": 15,
+          "duration": 3,
+          "unit": "month"
+        }
+      ],
+      "offers_consultation": false,
+      "has_work_samples": true,
+      "has_video": false,
+      "seller": {
+        "id": 70944075,
+        "username": "loftydesignshop",
+        "display_name": "Alpa",
+        "full_name": "Alpa Kapilbhai Ribadiya",
+        "country": "IN",
+        "level": "level_trs",
+        "is_pro": true,
+        "is_verified": false,
+        "is_online": true,
+        "one_liner": "Logo, Branding and Web Development Specialist",
+        "bio": "I’m Alpa, a creative designer with 10+ years of experience specializing in logo design and branding. Over time, I have expanded my skills to include business cards & stationery, logo animation and website development, providing complete visual solutions that help businesses grow. I lead a team of skilled creatives who focus on problem-solving and delivering purposeful design that achieves real results. Ready to bring your brand to life? Contact me today.",
+        "profile_image": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d93001bdcba7f9235745299f61850b71-1657200241990/24f7d64e-5d25-41b3-8175-c79ea47e35d1.jpg",
+        "profile_url": "https://www.fiverr.com/loftydesignshop",
+        "rating": 4.9,
+        "rating_count": 15376,
+        "completed_orders": 30736,
+        "response_time_hours": 1,
+        "is_highly_responsive": true,
+        "member_since": "2018-08-10",
+        "recent_delivery": "2026-09-21T12:41:13.000Z",
+        "languages": "en (FLUENT)",
+        "skills": [
+          "Graphic design",
+          "Adobe Illustrator",
+          "Adobe Photoshop",
+          "Logo design",
+          "Business card design",
+          "Minimalist logo design",
+          "Creative design",
+          "Vintage logo design",
+          "Flat minimalist design",
+          "Brand design",
+          "Brand logo design",
+          "Logo redesign",
+          "Stationery design",
+          "Modern logo design",
+          "Feminine logo design",
+          "Mascot logo design",
+          "Logo animation",
+          "Wordmark logo design",
+          "Adobe After Effects",
+          "Brand style guides design",
+          "Brand identity design",
+          "Visual identity",
+          "Branding",
+          "Color theory"
+        ],
+        "education": [
+          "OTHER — Sardar Patel Mahila B.B.A. collage /Saurashtra University (2014)"
+        ],
+        "certifications": [],
+        "hourly_rate": null,
+        "intro_video": null,
+        "on_vacation": false,
+        "agency": null,
+        "notable_clients": [
+          "Coldwell Banker",
+          "McCain Foods",
+          "The ARCHER Method",
+          "Allianz",
+          "Vintage Commerce"
+        ]
+      },
+      "reviews_summary": {
+        "total": 12752,
+        "average": 4.9,
+        "communication": 4.9,
+        "quality": 4.9,
+        "value_for_money": 4.8,
+        "breakdown": {
+          "1_star": 39,
+          "2_star": 94,
+          "3_star": 209,
+          "4_star": 943,
+          "5_star": 11467
+        },
+        "top_industries": [
+          "retail_and_wholesale:345",
+          "marketing_or_advertising:292",
+          "technology:286",
+          "art_and_design:256",
+          "education:210",
+          "financial_services_or_banking:207",
+          "fashion_and_apparel:192",
+          "medical_or_pharmaceutical:184",
+          "real_estate:150",
+          "media_or_entertainment:148",
+          "food_and_beverage:137",
+          "construction:135",
+          "sports_and_fitness:116",
+          "beauty_and_cosmetics:114",
+          "photography_and_videography:111",
+          "travel_or_tourism:85",
+          "events_planning:69",
+          "animals_and_pets:63",
+          "agriculture:61",
+          "leisure_or_lifestyle:61",
+          "services:56",
+          "transportation_or_automotive:53",
+          "writing_and_publishing:48",
+          "legal:35",
+          "non_profit:32",
+          "gaming:25",
+          "utilities_or_energy:23",
+          "religion_and_spirituality:17",
+          "government_or_public_sector:10",
+          "manufacturing_and_storage:10",
+          "other:520"
+        ]
+      },
+      "reviews": [
+        {
+          "id": "6a9392310d21846011f494a6",
+          "rating": 5,
+          "comment": "Trying to find someone to handle my new business's branding on Fiverr was rather daunting. After researching for a few days, I stumbled upon Fiverr's Vetted program, where I'm very happy to have found Alpa. She was a pleasure to work with, and her designs exceeded my expectations. Despite living in different countries, she was always quick to respond to messages and questions. \n\nI had a few revision requests throughout the process, but she was always polite and professional. Overall, I'm happy with our new logos and branding, and we'll use Alpa again in the future.\n\nThanks again, Alpa!",
+          "language": "en",
+          "reviewer": "timelesstales7",
+          "reviewer_country": "United States",
+          "created_at": "2026-08-30T02:49:08",
+          "order_duration_days": 5,
+          "order_price_range": "$200-$400",
+          "seller_response": "Thank you so much for your incredibly thoughtful and detailed feedback! It was truly a pleasure working with you and being part of the branding journey for your new business. I’m so happy to hear that you enjoyed the experience and that the designs exceeded your expectations. I truly appreciate your trust, patience, and the opportunity to bring your vision to life. Your kind words about my communication and professionalism mean a lot to me. It would be an absolute pleasure to work with you again in the future. Wishing you and your new business continued success!"
+        },
+        {
+          "id": "6a7040555dbbba43a6d42a27",
+          "rating": 5,
+          "comment": "Excellent experience from start to finish. \n\nWe needed branding and a logo for TreToppen, our indoor children's playground, and came in with only a vague idea of what we wanted. \n\nAlpa gave us real creative direction, explored several strong concepts, and handled every round of revisions quickly, even when our feedback wasn't perfectly clear :)\n\nCommunication was great throughout, and the final files were complete and well organized. \n\nThe whole team loves the result. \n\nHighly recommended!",
+          "language": "en",
+          "reviewer": "evenwee",
+          "reviewer_country": "Austria",
+          "created_at": "2026-08-03T08:39:20",
+          "order_duration_days": 5,
+          "order_price_range": "$200-$400",
+          "seller_response": "Thank you so much for your wonderful feedback! It was a true pleasure working with you and bringing your brand to life. I'm delighted to hear that you and your team are happy with the final result. \nI truly appreciate your trust, collaboration, and clear communication throughout the process. Wishing you continued success, and I hope we have the opportunity to work together again in the future!"
+        },
+        {
+          "id": "6a8c581a92d3a75bbda779e7",
+          "rating": 5,
+          "comment": "Working with Alpa and her team was phenomenal. I appreciated how they put together my logo and was flexible in changing it when I decided to go in another direction. Exceeded my expectations!",
+          "language": "en",
+          "reviewer": "niluee",
+          "reviewer_country": "United States",
+          "created_at": "2026-08-24T16:10:55",
+          "order_duration_days": 4,
+          "order_price_range": "$100-$200",
+          "seller_response": "It was truly a pleasure working with you and helping bring your vision to life. I really appreciate your trust, flexibility, and willingness to explore different directions throughout the process. I'm so happy to hear that the final result exceeded your expectations. Thank you again for such kind words!"
+        },
+        {
+          "id": "6a5bbc229c191c3e14328196",
+          "rating": 5,
+          "comment": "Working with Alpa was a wonderful experience from start to finish! She was incredibly patient, professional, and very cooperative throughout the entire design process. She carefully listened to my feedback, truly took the time to understand the vision for my luxury brand, and applied each round of revisions thoughtfully. The final logo is beautiful, polished, and exactly the direction I was hoping for. She also went above and beyond through her excellent communication, thoughtful revisions, and well organized, comprehensive final deliverables. I highly recommend both Alpa and her work, and I look forward to working with her again on future branding and website projects.",
+          "language": "en",
+          "reviewer": "sam_wagsworth",
+          "reviewer_country": "United States",
+          "created_at": "2026-07-18T18:16:48",
+          "order_duration_days": 30,
+          "order_price_range": "$200-$400",
+          "seller_response": "Thank you so much for your incredibly kind words and thoughtful review! It truly means a lot to me. It has been an absolute pleasure working with you throughout this project. I really appreciate your patience, and collaboration, which made the entire design process both enjoyable and rewarding. I'm delighted that you're happy with the final logo. Thank you for placing your trust in me and allowing me to be part of building your brand. I truly appreciate your recommendation, and I look forward to working with you again on your future branding, website, and other creative projects. Wishing you every success with the launch!"
+        },
+        {
+          "id": "6a8836461f17e42da5af9604",
+          "rating": 5,
+          "comment": "Alpa far exceeded my expectations. She was highly responsive and so easy to work with. She provided several logo options to start and then helped me refine my logo with an original icon that looks like a work of art. She was so good at interpreting my feedback and seemed to know what I was looking for, even more than I did. I will be returning for more branding work in the future. Thank you, Alpa!",
+          "language": "en",
+          "reviewer": "mkenney2411",
+          "reviewer_country": "United States",
+          "created_at": "2026-08-21T11:53:07",
+          "order_duration_days": 3,
+          "order_price_range": "$200-$400",
+          "seller_response": "Thank you so much for your incredibly kind and thoughtful words! It truly means a lot to know that the work exceeded your expectations. It was an absolute pleasure working with you and bringing your vision to life. I’m especially happy that you loved the final icon. Thank you again for your trust and for such a wonderful experience throughout the project. I truly appreciate your support and would be delighted to work with you again on your future branding projects!"
+        }
+      ],
+      "other_gigs_count": null
+    },
+    {
+      "id": 192945874,
+      "title": "do 3 modern minimalist logo design for your business",
+      "url": "https://www.fiverr.com/mewindson/do-minimal-logo-design",
+      "slug": "do-minimal-logo-design",
+      "thumbnail": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/192945874/original/45074ea0dfcd30781722c0cc82cdd54355d2102d.jpg",
+      "seller_id": 97475280,
+      "seller_username": "mewindson",
+      "seller_displayName": "Bhavik C",
+      "seller_profileImage": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/badfa8fa94ab60786a2b4565f351d705-1729170121445/be04c8e5-2fee-4bfb-ad1a-8c2a969a1ffc.jpg",
+      "seller_url": "https://www.fiverr.com/mewindson",
+      "seller_country": "IN",
+      "seller_isOnline": false,
+      "seller_isPro": false,
+      "seller_level": "top_rated_seller",
+      "seller_languages": "en (Level 3), hi (Level 3)",
+      "seller_rating_score": 4.865701,
+      "seller_rating_count": 17402,
+      "starting_price": 45,
+      "currency": "USD",
+      "recommended_package_id": 1,
+      "recommended_package_price": 45,
+      "delivery_days": 4,
+      "has_extra_fast": false,
+      "package_tier": 1,
+      "package_type": "cheapest",
+      "total_packages": 3,
+      "hourly_rate": 25,
+      "position": 4,
+      "listing_type": "organic",
+      "is_promoted": false,
+      "impression_id": "d20a1aa0-048c-402e-addd-5be8153e032a",
+      "isFiverrChoice": false,
+      "isFeatured": false,
+      "buying_rating": 4.8,
+      "buying_review_count": 14101,
+      "category_id": 3,
+      "subcategory_id": 49,
+      "nested_subcategory_id": null,
+      "isSellerUnavailable": false,
+      "offerConsultation": true,
+      "hasRecurringOptions": true,
+      "isPersonalizedPricingEnabled": true,
+      "hasVideoIntro": false,
+      "hasWorkSamples": true,
+      "gallery": [
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/192945874/original/45074ea0dfcd30781722c0cc82cdd54355d2102d/do-minimal-logo-design.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/192945874/original/45074ea0dfcd30781722c0cc82cdd54355d2102d/do-minimal-logo-design.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/192945874/original/93ff8be5d9b11b94cbb4ec7bfa2a2efc041736ba/do-minimal-logo-design.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/192945874/original/93ff8be5d9b11b94cbb4ec7bfa2a2efc041736ba/do-minimal-logo-design.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/192945874/original/cfbc1e5c5410119fe6997ab6829aa843006db4a1/do-minimal-logo-design.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/192945874/original/cfbc1e5c5410119fe6997ab6829aa843006db4a1/do-minimal-logo-design.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20251211/branding design brading kit brand style guide logo design modern minimal clean_riekmf.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20251211/branding design brading kit brand style guide logo design modern minimal clean_riekmf.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20251211/business logo design minimal negative space clean logo design modern branding brand guide_oxxrtc.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20251211/business logo design minimal negative space clean logo design modern branding brand guide_oxxrtc.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6adfc29082a17c45b7dc3a180baca08e-1782858275/Nurturing%20Roots%20Counselling%20logo_D%20Thumbnail.jpeg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6adfc29082a17c45b7dc3a180baca08e-1782858275/Nurturing%20Roots%20Counselling%20logo_D%20Thumbnail.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/dbcf4d62a1cd5fae5675c58cad49508f-1775219596/477%20Combat%20Academy%20Logo_D%20Thumbnail.jpeg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/dbcf4d62a1cd5fae5675c58cad49508f-1775219596/477%20Combat%20Academy%20Logo_D%20Thumbnail.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/db56c2f5f6560027351233a7ea296d9e-1774555457/Dharani%20Homes%20LOGO_C%20Thumbnail.jpeg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/db56c2f5f6560027351233a7ea296d9e-1774555457/Dharani%20Homes%20LOGO_C%20Thumbnail.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1803c581d5d9f030a4a62eed3528b90a-1770031385/InAlignement%20logo_D%20Thumbnail.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1803c581d5d9f030a4a62eed3528b90a-1770031385/InAlignement%20logo_D%20Thumbnail.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/094e2f5415d1f060e6d87fc93a8736b7-1769843321/M%20logo_D%20Thumbnail.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/094e2f5415d1f060e6d87fc93a8736b7-1769843321/M%20logo_D%20Thumbnail.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9932a4947bf98067206bfe71507c4a43-1769775717/Prime%20X%20Training%20logo_A%20Thumbnail.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9932a4947bf98067206bfe71507c4a43-1769775717/Prime%20X%20Training%20logo_A%20Thumbnail.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/376ecf0b2975eb7aa7dc7a1216103fc9-1732348391/ZMonkey%20Logo%20-%20D%20PRESENTATION.jpeg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/376ecf0b2975eb7aa7dc7a1216103fc9-1732348391/ZMonkey%20Logo%20-%20D%20PRESENTATION.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/afc1343462af4a164255c1b0bed0b83f-1691478050/Logo%20Mock%20Final.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/afc1343462af4a164255c1b0bed0b83f-1691478050/Logo%20Mock%20Final.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/db4462531ebcf14f9725ed0eb1820099-1690959745/Logo%20Mock%20Final.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/db4462531ebcf14f9725ed0eb1820099-1690959745/Logo%20Mock%20Final.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4d3430234285365e95d839a888ba0160-1690468665/Logo%20Mock%20Final%20%281%29.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4d3430234285365e95d839a888ba0160-1690468665/Logo%20Mock%20Final%20%281%29.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/900ac93a2d1e70bd4559e7d87ae806fc-1690006831/Logo%20Mock%20Final.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/900ac93a2d1e70bd4559e7d87ae806fc-1690006831/Logo%20Mock%20Final.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ae6ccb2d310cc85f1cc27d3b7b1b7562-1645175993/Logo%20Mockup.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ae6ccb2d310cc85f1cc27d3b7b1b7562-1645175993/Logo%20Mockup.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/768e52d2cbb44f68b27504a89aecb1b8-1645175737/Logo%20Mockup.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/768e52d2cbb44f68b27504a89aecb1b8-1645175737/Logo%20Mockup.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/590e4f7540660b5d7e2ae44010af711e-1644495699/Logo%20Mockup.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/590e4f7540660b5d7e2ae44010af711e-1644495699/Logo%20Mockup.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8b59d4502788d00c0ad545f7bcb66064-1644325277/Logo%20Mockup.jpg",
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8b59d4502788d00c0ad545f7bcb66064-1644325277/Logo%20Mockup.jpg"
+        }
+      ],
+      "gallery_count": 20,
+      "work_samples": [
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/6adfc29082a17c45b7dc3a180baca08e-1782858275/Nurturing%20Roots%20Counselling%20logo_D%20Thumbnail.jpeg",
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/dbcf4d62a1cd5fae5675c58cad49508f-1775219596/477%20Combat%20Academy%20Logo_D%20Thumbnail.jpeg",
+        "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/db56c2f5f6560027351233a7ea296d9e-1774555457/Dharani%20Homes%20LOGO_C%20Thumbnail.jpeg"
+      ],
+      "attachments_count": 3,
+      "tags": [
+        "logo",
+        "custom logo",
+        "modern logo design",
+        "business logo design",
+        "professional logo"
+      ],
+      "metadata": {
+        "Logo style": [
+          "Minimalist"
+        ],
+        "Logo type": [
+          "Pictorial",
+          "Mascot",
+          "Emblem"
+        ],
+        "File format": [
+          "AI",
+          "JPG",
+          "PDF",
+          "PNG",
+          "PSD",
+          "EPS",
+          "SVG"
+        ]
+      },
+      "scraped_at": "2026-09-21T16:39:25.510Z",
+      "local_currency": "PKR",
+      "local_rate": 290.7529652325,
+      "local_price": 13084,
+      "gig_id": 192945874,
+      "status": "approved",
+      "category": "Graphics & Design",
+      "category_slug": "graphics-design",
+      "subcategory": "Logo Design",
+      "subcategory_slug": "creative-logo-design",
+      "is_pro": false,
+      "is_handpicked": false,
+      "is_studio": false,
+      "orders_in_queue": 737,
+      "rating": 4.8,
+      "rating_count": 14101,
+      "description": "Hello! Welcome to my logo design gig.\n\nLooking to boost up your brand? You are at the right place.\n\nI am specialized in clean and timeless logo design as well as brand style guides. To date, I have completed 500+ projects on Behance and dribble.\n\nI'll create a design that will clearly portray your business with minimum detail yet maximum explanation.\n\nWORKFLOW\n\nStrong Communication -&gt; Research -&gt; Sketching -&gt; Review -&gt; Finalize\n\nWhy trust me and what benefits do you get?\n\nQuick Response TimeHigh-Quality Logos and 100% Satisfaction guaranteedAuthentic and Custom logo piecesUnlimited Revisions (until you get the desired outcome)\n\nThis gig assures you all the web + print resolution solutions \nCopyrights will be with the buyers.Get the source and editable files ai, eps, PSD, pdf, and High-quality files.\n\nNote: I do not design 3D, Mascots, and Detailed Logo Designs.\n\nMinimalist Business Logo | Real Estate logo | YouTube Channel | Beauty | Care | Finance | Food | Fashion | Travel | Event | Construction | Luxury | Social Media | Retail | Sports & Fitness | Technology\n\nHave a question? I am just a message away, get in touch :)",
+      "description_html": "<p>Hello! <em>Welcome to my logo design gig.</em></p><p><br></p><p>Looking to boost up your brand? You are at the right place.</p><p><br></p><p>I am specialized in clean and timeless logo design as well as brand style guides. To date, I have completed 500+ projects on Behance and dribble.</p><p><br></p><p>I'll create a design that will clearly portray your business with minimum detail yet maximum explanation.</p><p><br></p><p><strong>WORKFLOW</strong></p><p><br></p><p>Strong Communication -&gt; Research -&gt; Sketching -&gt; Review -&gt; Finalize</p><p><br></p><p><strong>Why trust me and what benefits do you get?</strong></p><p><br></p><ul><li>Quick Response Time</li><li>High-Quality Logos and 100% Satisfaction guaranteed</li><li>Authentic and Custom logo pieces</li><li>Unlimited Revisions (until you get the desired outcome)</li></ul><p><br></p><p>This gig assures you all the web + print resolution solutions&nbsp;</p><ul><li>Copyrights will be with the buyers.</li><li>Get the source and editable files ai, eps, PSD, pdf, and High-quality files.</li></ul><p><br></p><p><strong>Note: I do not design 3D, Mascots, and Detailed Logo Designs.</strong></p><p><br></p><p>Minimalist Business Logo | Real Estate logo | YouTube Channel | Beauty | Care | Finance | Food | Fashion | Travel | Event | Construction | Luxury | Social Media | Retail | Sports &amp; Fitness | Technology</p><p><br></p><p>Have a question?&nbsp;I am just a message away, get in touch :)</p>",
+      "faq": [
+        {
+          "question": "What I need to get started?",
+          "answer": "Nothing much! After ordering my gig you will see some basic questions where I will determine your exact needs and will provide you designs based upon it."
+        },
+        {
+          "question": "Which package should I choose to get a timeless logo?",
+          "answer": "To get timeless and creative logo, I would recommend you to choose my standard/premium package because it will produce a logo which is totally unique by that your brand will have a good Face that is \"LOGO\""
+        },
+        {
+          "question": "What does the Social Media Kit and Stationery include?",
+          "answer": "Social media kit are covers/banners for Facebook Twitter & Instagram + YouTube it has platform friendly size and dimensions. Stationery designs are collection of business card and letterhead designed which are symmetrical to your newly designed logo."
+        },
+        {
+          "question": "Do I get copy-rights to the work?",
+          "answer": "Of course! You get commercial rights to it according to fiverr’s policy."
+        },
+        {
+          "question": "What is a Source Vector File?",
+          "answer": "Vector/Source files are the original files (.ai and .eps). With a vector file, you can output the artwork into any file format (JPEG, PNG etc.), any color profile (CMYK, RGB) and any size (pixels or DPI) without compromising on quality. These files are your business asset for future usage."
+        },
+        {
+          "question": "Why should I buy from you?",
+          "answer": "By checking my portfolio you will surely get the TRUST and this is a result of hard working, years of experience, and countless happy customers, mostly before I even joined Fiverr. My greatest contribution to the design is that I don't simply \"design\", I understand your requirement first :)"
+        }
+      ],
+      "ai_summary": [
+        "This service offers modern minimalist logo design with over 14,000 reviews.",
+        "Clients value high-quality, custom logos with quick response times.",
+        "The freelancer maintains a 4.8-star rating for professional work.",
+        "Revisions are unlimited, ensuring satisfaction and tailored results.",
+        "Specialized in clean, timeless branding for various industries."
+      ],
+      "price_min": 45,
+      "price_max": 155,
+      "packages": [
+        {
+          "id": 1,
+          "title": "Wind - For Start Ups",
+          "description": "3 logo design along with white and transparent background (JPEG PNG) Files + Source file (.ai)",
+          "price": 45,
+          "delivery_days": 4,
+          "revisions": 3,
+          "revisions_unlimited": false,
+          "extra_fast_available": true,
+          "extra_fast_price": 45,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 3
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 35
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": false,
+              "extra_price": 15
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 40
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": false,
+              "extra_price": 35
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Email Sign",
+              "price": 25,
+              "duration_days": 1
+            },
+            {
+              "label": "Windson Special Mock",
+              "price": 15,
+              "duration_days": 0
+            },
+            {
+              "label": "Favicon",
+              "price": 15,
+              "duration_days": 0
+            },
+            {
+              "label": "Stationary Design",
+              "price": 55,
+              "duration_days": 0
+            },
+            {
+              "label": "Logo Color Options",
+              "price": null,
+              "duration_days": null
+            },
+            {
+              "label": "Logo Style Guide",
+              "price": 115,
+              "duration_days": 2
+            }
+          ],
+          "local_price": 13084,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 2,
+          "title": "Tornado - Best Choice",
+          "description": "4 HQ Creative variation with JPEG PNG + SOCIAL MEDIA COVERS + .ai .eps Source and Vector Files",
+          "price": 95,
+          "delivery_days": 4,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": true,
+          "extra_fast_price": 65,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 4
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 35
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": false,
+              "extra_price": 40
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Email Sign",
+              "price": 25,
+              "duration_days": 1
+            },
+            {
+              "label": "Windson Special Mock",
+              "price": 15,
+              "duration_days": 0
+            },
+            {
+              "label": "Favicon",
+              "price": 15,
+              "duration_days": 0
+            },
+            {
+              "label": "Stationary Design",
+              "price": 55,
+              "duration_days": 0
+            },
+            {
+              "label": "Logo Color Options",
+              "price": null,
+              "duration_days": null
+            },
+            {
+              "label": "Logo Style Guide",
+              "price": 115,
+              "duration_days": 2
+            }
+          ],
+          "local_price": 27622,
+          "local_currency": "PKR"
+        },
+        {
+          "id": 3,
+          "title": "Hurricane - Selected by PRO",
+          "description": "5 Highly Professional variations JPEG PNG + STATIONARY & SOCIAL MEDIA COVERS + Source files for logo",
+          "price": 155,
+          "delivery_days": 3,
+          "revisions": -1,
+          "revisions_unlimited": true,
+          "extra_fast_available": true,
+          "extra_fast_price": 85,
+          "extra_fast_days": 1,
+          "features": [
+            {
+              "name": "included_versions",
+              "label": "Number of concepts included",
+              "included": true,
+              "value": 5
+            },
+            {
+              "name": "logo_transparency",
+              "label": "Logo transparency",
+              "included": true
+            },
+            {
+              "name": "vector_file",
+              "label": "Vector file",
+              "included": true
+            },
+            {
+              "name": "print_resolution",
+              "label": "Printable file",
+              "included": true
+            },
+            {
+              "name": "model_3d",
+              "label": "3D mockup",
+              "included": true
+            },
+            {
+              "name": "include_source_file",
+              "label": "Source file",
+              "included": true
+            },
+            {
+              "name": "stationery_design",
+              "label": "Stationery designs",
+              "included": true
+            },
+            {
+              "name": "social_media_kit",
+              "label": "Social media kit",
+              "included": true
+            },
+            {
+              "name": "additional_modifications",
+              "label": "Additional revision",
+              "included": false,
+              "extra_price": 25
+            },
+            {
+              "name": "additional_versions",
+              "label": "Additional logo",
+              "included": false,
+              "extra_price": 35
+            }
+          ],
+          "custom_extras": [
+            {
+              "label": "Email Sign",
+              "price": 25,
+              "duration_days": 1
+            },
+            {
+              "label": "Windson Special Mock",
+              "price": 15,
+              "duration_days": 0
+            },
+            {
+              "label": "Favicon",
+              "price": 15,
+              "duration_days": 0
+            },
+            {
+              "label": "Stationary Design",
+              "price": 55,
+              "duration_days": 0
+            },
+            {
+              "label": "Logo Color Options",
+              "price": null,
+              "duration_days": null
+            },
+            {
+              "label": "Logo Style Guide",
+              "price": 115,
+              "duration_days": 2
+            }
+          ],
+          "local_price": 45067,
+          "local_currency": "PKR"
+        }
+      ],
+      "recurring_options": [
+        {
+          "discount_percent": 10,
+          "duration": 3,
+          "unit": "month"
+        },
+        {
+          "discount_percent": 15,
+          "duration": 6,
+          "unit": "month"
+        }
+      ],
+      "offers_consultation": false,
+      "has_work_samples": true,
+      "has_video": true,
+      "seller": {
+        "id": 97475280,
+        "username": "mewindson",
+        "display_name": "Bhavik C",
+        "full_name": "BHAVIK SUBHASHBHAI CHAUHAN",
+        "country": "IN",
+        "level": "level_trs",
+        "is_pro": true,
+        "is_verified": false,
+        "is_online": true,
+        "one_liner": "Logo Designer and Website Expert",
+        "bio": "Hi, I’m Windson (Bhavik Chauhan), a graphic and web designer from India. I’ve worked with 50,000+ businesses worldwide and successfully completed 35,000+ orders on Fiverr. I’m a Fiverr Pro seller, a Fiverr Millionaire Milestone Award winner, and have been featured in Fiverr’s official campaigns, including Times Square, NYC.\n\nI’ve collaborated with global brands like Google, IKEA, and Unilever. I offer end-to-end creative services from logo design to website development, helping brands stand out with clarity, consistency, and confidence.\n\nLet's Connect <3 ",
+        "profile_image": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/badfa8fa94ab60786a2b4565f351d705-1729170121445/be04c8e5-2fee-4bfb-ad1a-8c2a969a1ffc.jpg",
+        "profile_url": "https://www.fiverr.com/mewindson",
+        "rating": 4.8,
+        "rating_count": 17402,
+        "completed_orders": 38700,
+        "response_time_hours": 1,
+        "is_highly_responsive": true,
+        "member_since": "2020-11-15",
+        "recent_delivery": "2026-09-21T14:12:21.000Z",
+        "languages": "en (FLUENT), hi (FLUENT)",
+        "skills": [
+          "Minimalist logo design",
+          "Logo design",
+          "Graphic design",
+          "Adobe Illustrator",
+          "Flat logo design",
+          "Modern logo design",
+          "Stationery design",
+          "Social media design",
+          "Typography design",
+          "WordPress",
+          "WordPress E-Commerce",
+          "Wordpress blog",
+          "Logo animation",
+          "Animation",
+          "WordPress migration",
+          "Wordpress theme customization",
+          "Wordpress theme development",
+          "Elementor Pro",
+          "Elementor",
+          "Squarespace",
+          "Signature logo design",
+          "Flat & minimalist brand style design",
+          "Brand style guides design"
+        ],
+        "education": [
+          "CERTIFICATE — MEFGI (2021)",
+          "CERTIFICATE — MEFGI (2019)",
+          "BSC — Computer Engineering (2020)"
+        ],
+        "certifications": [
+          "Certificate  — Adobe (2021)"
+        ],
+        "hourly_rate": null,
+        "intro_video": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/seller_intro_video/attachment/c0dc20b7fd2d9e216783e1b0481f5fa7-1710958789655/BHAVIKBHAI%20INTERVIEW%2059%20SEC%20HD%20NEW%2020-03-2024",
+        "on_vacation": false,
+        "agency": null,
+        "notable_clients": [
+          "https://www.google.co.in/",
+          "Fiverr",
+          "Unilever",
+          "Bentley Motors"
+        ]
+      },
+      "reviews_summary": {
+        "total": 14101,
+        "average": 4.8,
+        "communication": 4.8,
+        "quality": 4.8,
+        "value_for_money": 4.8,
+        "breakdown": {
+          "1_star": 86,
+          "2_star": 92,
+          "3_star": 185,
+          "4_star": 1102,
+          "5_star": 12636
+        },
+        "top_industries": [
+          "technology:551",
+          "marketing_or_advertising:384",
+          "retail_and_wholesale:357",
+          "art_and_design:315",
+          "financial_services_or_banking:284",
+          "medical_or_pharmaceutical:248",
+          "education:243",
+          "real_estate:214",
+          "fashion_and_apparel:206",
+          "media_or_entertainment:201",
+          "food_and_beverage:190",
+          "sports_and_fitness:172",
+          "construction:170",
+          "photography_and_videography:116",
+          "beauty_and_cosmetics:116",
+          "services:98",
+          "transportation_or_automotive:97",
+          "events_planning:89",
+          "agriculture:88",
+          "travel_or_tourism:79",
+          "animals_and_pets:75",
+          "gaming:71",
+          "writing_and_publishing:45",
+          "non_profit:45",
+          "leisure_or_lifestyle:45",
+          "legal:37",
+          "utilities_or_energy:32",
+          "environmental:26",
+          "government_or_public_sector:23",
+          "religion_and_spirituality:14",
+          "other:747"
+        ]
+      },
+      "reviews": [
+        {
+          "id": "6a996d8dfa40ae4f20814898",
+          "rating": 5,
+          "comment": "I was looking for a logo refresh for my new business. My current logo was okay, but could have been better which is why I hired extra help.\n\nBhavik C did an excellent job of building my logo, even giving me some bolder choices which were amazing! Was very patient with me as I asked them to make  a few changes here and there. I would definitely recommend hiring Bhavik C if you're looking for a simple logo that still gives that professional feel.",
+          "language": "en",
+          "reviewer": "jessicalynas",
+          "reviewer_country": "United Kingdom",
+          "created_at": "2026-09-03T14:13:38",
+          "order_duration_days": 6,
+          "order_price_range": "$50-$100",
+          "seller_response": "Thank you for your awesome words, it was a pleasure doing business with you :)"
+        },
+        {
+          "id": "6a45f2bc3cc98b7d949b6a2c",
+          "rating": 5,
+          "comment": "Really happy with the logo designed for my business, Patna Property Wwale. \n\nHe understood the brief for a clean, premium property brand and delivered a sharp gold-and-navy PW monogram that works well across signage, social, and print. What stood out most was how he handled revisions — I asked for a few refinements to the lettering and the monogram, and he turned them around quickly and got everything exactly right. \n\nCommunication was clear and proactive throughout, and he kept me updated at each stage. He even did the revisions that were beyond the scope. Super happy! Would happily work with him again for future branding work. Highly recommended.",
+          "language": "en",
+          "reviewer": "odhavmodi",
+          "reviewer_country": "India",
+          "created_at": "2026-07-02T14:48:26",
+          "order_duration_days": 5,
+          "order_price_range": "Up to $50",
+          "seller_response": "Thank you for your awesome words, it was a pleasure doing business with you :)"
+        },
+        {
+          "id": "6a3d4cf857e4ba66060bb912",
+          "rating": 5,
+          "comment": "Bhavik was absolutely wonderful to work with and completely brought my website to life! This was the first time I was designing a website with a professional and I was nervous about what to expect. He exceeded my expectations. \n\nHe was responsive, courteous, and so patient the entire way through. Any questions I asked he responded to quickly (even considering our time zone difference!). I was also impressed on how much he added in terms of style and function that I didn't even know was available to me. Bhavik, thank you for sharing your genius with me! I absolutely LOVE my new website! Do not hesitate to work with him. I highly recommend him!",
+          "language": "en",
+          "reviewer": "heatherrevfit",
+          "reviewer_country": "United States",
+          "created_at": "2026-06-26T15:05:15",
+          "order_duration_days": 85,
+          "order_price_range": "$1,000-$1,500",
+          "seller_response": "\nThank you for your awesome words, it was a pleasure doing business with you :)"
+        },
+        {
+          "id": "6aa4f37f5a57b43acc33c5b4",
+          "rating": 5,
+          "comment": "Working with Bhavik again was a delight. I had worked with Bhavik in 2025 and he helped me design a brilliant logo for our company. Based on that, I asked him to give a fresh perspective for a brand new logo and Bhavik did a great job. Will be working with him again in the future for sure!",
+          "language": "en",
+          "reviewer": "ka51resident",
+          "reviewer_country": "India",
+          "created_at": "2026-09-12T13:51:39",
+          "order_duration_days": 5,
+          "order_price_range": "Up to $50",
+          "seller_response": "\nThank you for your awesome words, it was a pleasure doing business with you :)"
+        },
+        {
+          "id": "6a7eb07e7ae9997df67e620a",
+          "rating": 3,
+          "comment": "While the seller was professional and clearly has talent, the delivered concepts unfortunately didn't align with what I needed for this project. There may have been a disconnect in the design brief and creative direction, but the final output just wasn’t the right fit this time. I appreciate their effort nonetheless.",
+          "language": "en",
+          "reviewer": "mtn4est",
+          "reviewer_country": "United States",
+          "created_at": "2026-08-22T14:12:42",
+          "order_duration_days": 5,
+          "order_price_range": "$50-$100",
+          "seller_response": null
+        }
+      ],
+      "other_gigs_count": null
+    }
+  ]
+}

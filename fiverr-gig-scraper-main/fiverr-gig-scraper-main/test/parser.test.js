@@ -1,0 +1,33 @@
+import { readFileSync } from 'node:fs';
+import assert from 'node:assert/strict';
+import { extractProps, getGigs, getPagination, getCurrency, flattenGig, buildUrl, isBlocked } from '../src/parser.js';
+
+const html = readFileSync(new URL('./sample_search_page.html', import.meta.url), 'utf8');
+assert.equal(isBlocked(html), false);
+const props = extractProps(html);
+const gigs = getGigs(props);
+assert.equal(gigs.length, 48);
+assert.equal(getPagination(props).pageSize, 48);
+assert.equal(getCurrency(props).name, 'USD');
+const rec = flattenGig(gigs[5], 6, { includeGallery: true, currency: 'USD' });
+assert.ok(rec.id && rec.title && rec.url.startsWith('https://www.fiverr.com/'));
+assert.ok(rec.seller_username && rec.seller_rating_score > 0);
+assert.ok(rec.starting_price > 0 && rec.delivery_days > 0);
+assert.ok(Array.isArray(rec.gallery));
+const brl = flattenGig(gigs[5], 6, { currency: 'BRL', currencyRate: 5.4 });
+assert.equal(brl.currency, 'USD'); assert.ok(brl.starting_price < gigs[5].price_i); assert.equal(brl.original_currency, 'BRL');
+const promoted = gigs.filter((g) => g.type === 'promoted_gigs').length;
+console.log(`✅ parser OK — 48 gigs, ${promoted} promoted, sample:`, JSON.stringify(rec, null, 1).slice(0, 600));
+assert.equal(buildUrl({ query: 'logo design', page: 2, sortBy: 'rating' }),
+  'https://www.fiverr.com/search/gigs?query=logo+design&source=top-bar&page=2&offset=48&sort_by=rating');
+import { parseGigDetail } from '../src/gigDetail.js';
+const gigHtml = readFileSync(new URL('./sample_gig_page.html', import.meta.url), 'utf8');
+const det = parseGigDetail(gigHtml);
+assert.equal(det.gig_id, 459112484);
+assert.equal(det.packages.length, 3);
+assert.equal(det.packages[0].price, 40);
+assert.equal(det.packages[0].delivery_days, 3);
+assert.ok(det.description.length > 100 && det.faq.length > 0 && det.reviews.length > 0);
+assert.equal(det.seller.username, 'brandoradesign');
+console.log('✅ gig detail parser OK');
+console.log('✅ all tests passed');

@@ -1,0 +1,16 @@
+{
+  "name": "gigradar-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP Server for GigRadar — Fiverr Market Intelligence & Scraper Suite",
+  "main": "index.js",
+  "bin": {
+    "gigradar-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}

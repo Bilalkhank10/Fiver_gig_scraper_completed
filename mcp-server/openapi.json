@@ -1,0 +1,347 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "GigRadar — Fiverr Market Intelligence API",
+    "description": "Scrape Fiverr gigs, analyze market data, compare sellers, filter results, and export reports. Use this API to research freelancer pricing, seller demographics, and competitive positioning on Fiverr.",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3456",
+      "description": "Local development server"
+    }
+  ],
+  "paths": {
+    "/api/scrape": {
+      "post": {
+        "operationId": "scrapeFiverr",
+        "summary": "Scrape Fiverr for gigs",
+        "description": "Run a Fiverr scraping job. Use mode 'demo' for instant sample data (no network needed), 'search' for live scraping of listing pages, or 'deep' for full gig details including package tiers and reviews.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "query": {
+                    "type": "string",
+                    "description": "Search query, e.g. 'logo design', 'wordpress developer'",
+                    "default": "logo design"
+                  },
+                  "mode": {
+                    "type": "string",
+                    "enum": ["search", "deep", "demo"],
+                    "description": "Scrape mode: 'demo' (instant sample data), 'search' (fast listing), 'deep' (full details)",
+                    "default": "demo"
+                  },
+                  "maxPages": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 50,
+                    "description": "Number of pages to scrape (1 page ≈ 48 gigs)",
+                    "default": 1
+                  },
+                  "sortBy": {
+                    "type": "string",
+                    "enum": ["auto", "rating", "new", "price_asc", "price_desc"],
+                    "default": "auto"
+                  },
+                  "skipPromoted": {
+                    "type": "boolean",
+                    "description": "Skip promoted/sponsored gigs",
+                    "default": false
+                  },
+                  "dedupeGigs": {
+                    "type": "boolean",
+                    "description": "Remove duplicate gigs",
+                    "default": true
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Scrape completed successfully",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": { "type": "boolean" },
+                    "datasetId": { "type": "string", "description": "Use this ID with other endpoints" },
+                    "totalGigsScraped": { "type": "integer" },
+                    "query": { "type": "string" },
+                    "mode": { "type": "string" },
+                    "summary": {
+                      "type": "object",
+                      "properties": {
+                        "avgPrice": { "type": "number" },
+                        "medianPrice": { "type": "number" },
+                        "priceRange": { "type": "string" },
+                        "avgRating": { "type": "number" },
+                        "totalReviews": { "type": "integer" },
+                        "promotedPercent": { "type": "string" },
+                        "avgDeliveryDays": { "type": "number" },
+                        "topCountries": { "type": "array", "items": { "type": "string" } }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/datasets": {
+      "get": {
+        "operationId": "listDatasets",
+        "summary": "List all saved datasets",
+        "description": "Returns a list of all saved Fiverr scraping datasets with their metadata, gig counts, and summary statistics.",
+        "responses": {
+          "200": {
+            "description": "List of datasets",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "datasets": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": { "type": "string" },
+                          "title": { "type": "string" },
+                          "query": { "type": "string" },
+                          "createdAt": { "type": "string" },
+                          "gigCount": { "type": "integer" },
+                          "avgPrice": { "type": "number" },
+                          "avgRating": { "type": "number" }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/datasets/{id}": {
+      "get": {
+        "operationId": "getDataset",
+        "summary": "Get a dataset by ID",
+        "description": "Retrieve the full gig data for a specific dataset, with pagination support.",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" } },
+          { "name": "limit", "in": "query", "schema": { "type": "integer", "default": 50, "maximum": 200 }, "description": "Max gigs to return" },
+          { "name": "offset", "in": "query", "schema": { "type": "integer", "default": 0 }, "description": "Offset for pagination" }
+        ],
+        "responses": {
+          "200": {
+            "description": "Dataset with gig data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "id": { "type": "string" },
+                    "title": { "type": "string" },
+                    "totalGigs": { "type": "integer" },
+                    "showing": { "type": "string" },
+                    "gigs": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": { "type": "integer" },
+                          "title": { "type": "string" },
+                          "seller": { "type": "string" },
+                          "sellerCountry": { "type": "string" },
+                          "sellerLevel": { "type": "string" },
+                          "price": { "type": "number" },
+                          "deliveryDays": { "type": "integer" },
+                          "rating": { "type": "number" },
+                          "reviewCount": { "type": "integer" },
+                          "isPromoted": { "type": "boolean" },
+                          "url": { "type": "string" }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "operationId": "deleteDataset",
+        "summary": "Delete a dataset",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "responses": {
+          "200": { "description": "Dataset deleted" }
+        }
+      }
+    },
+    "/api/datasets/{id}/analytics": {
+      "get": {
+        "operationId": "getMarketAnalytics",
+        "summary": "Get market analytics for a dataset",
+        "description": "Returns comprehensive market intelligence: KPIs, price distribution, seller level demographics, top countries, delivery time distribution, and trending tags.",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Full market analytics",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "kpis": {
+                      "type": "object",
+                      "properties": {
+                        "totalGigs": { "type": "integer" },
+                        "avgPrice": { "type": "number" },
+                        "medianPrice": { "type": "number" },
+                        "minPrice": { "type": "number" },
+                        "maxPrice": { "type": "number" },
+                        "avgDeliveryDays": { "type": "number" },
+                        "avgRating": { "type": "number" },
+                        "totalReviews": { "type": "integer" },
+                        "promotedPercent": { "type": "number" }
+                      }
+                    },
+                    "priceDistribution": { "type": "array" },
+                    "sellerLevels": { "type": "array" },
+                    "topCountries": { "type": "array" },
+                    "deliveryTimeDistribution": { "type": "array" },
+                    "topTags": { "type": "array" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/datasets/{id}/search": {
+      "post": {
+        "operationId": "searchGigs",
+        "summary": "Search and filter gigs in a dataset",
+        "description": "Filter gigs by keyword, price range, seller level, country, and promoted/organic status. Results can be sorted by price, rating, reviews, or delivery time.",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "keyword": { "type": "string", "description": "Search in title, seller name, tags" },
+                  "minPrice": { "type": "number" },
+                  "maxPrice": { "type": "number" },
+                  "sellerLevel": { "type": "string", "enum": ["top_rated", "level_2", "level_1", "new"] },
+                  "country": { "type": "string", "description": "Country code like US, IN, PK" },
+                  "onlyPromoted": { "type": "boolean" },
+                  "onlyOrganic": { "type": "boolean" },
+                  "sortBy": { "type": "string", "enum": ["price_asc", "price_desc", "rating", "reviews", "delivery"], "default": "rating" },
+                  "limit": { "type": "integer", "default": 20, "maximum": 100 }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Filtered gig results"
+          }
+        }
+      }
+    },
+    "/api/datasets/{id}/compare": {
+      "post": {
+        "operationId": "compareGigs",
+        "summary": "Compare gigs side-by-side",
+        "description": "Compare 2–5 gigs with a competitive scorecard including value scoring. Provide an array of gig IDs from the dataset.",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["gigIds"],
+                "properties": {
+                  "gigIds": {
+                    "type": "array",
+                    "items": { "type": "integer" },
+                    "minItems": 2,
+                    "maxItems": 5,
+                    "description": "Array of 2–5 gig IDs to compare"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": { "description": "Side-by-side comparison with value scores" }
+        }
+      }
+    },
+    "/api/datasets/{id}/export": {
+      "get": {
+        "operationId": "exportDataset",
+        "summary": "Export a dataset",
+        "description": "Export a dataset in CSV, JSON, or Markdown report format.",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" } },
+          { "name": "format", "in": "query", "schema": { "type": "string", "enum": ["csv", "json", "markdown"], "default": "json" } }
+        ],
+        "responses": {
+          "200": { "description": "Exported data in the requested format" }
+        }
+      }
+    },
+    "/api/load-sample": {
+      "post": {
+        "operationId": "loadSampleDataset",
+        "summary": "Load a built-in demo dataset",
+        "description": "Load a pre-built sample dataset for instant exploration. Available types: 'logo_design' or 'web_development'.",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "type": "string",
+                    "enum": ["logo_design", "web_development"],
+                    "default": "logo_design"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": { "description": "Sample dataset loaded successfully" }
+        }
+      }
+    }
+  }
+}
